@@ -1,0 +1,37 @@
+{
+  "hash": "0149edd7",
+  "configHash": "b1978747",
+  "lockfileHash": "a09919c5",
+  "browserHash": "2a304311",
+  "optimized": {
+    "@vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "eba036a6",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../../node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "0c24fff9",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "49275eb6",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "b042b2d0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-VWA5BSLS": {
+      "file": "chunk-VWA5BSLS.js"
+    }
+  }
+}

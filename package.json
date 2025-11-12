@@ -1,0 +1,19 @@
+{
+  "name": "wynn_guide_reborn",
+  "version": "1.0.0",
+  "description": "A Chinese guide for the Minecraft MMO Wynncraft.",
+  "license": "ISC",
+  "author": "CreeperBabyTea",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.26",
+    "@vuepress/theme-default": "^2.0.0-rc.118",
+    "sass-embedded": "^1.93.3",
+    "vuepress": "^2.0.0-rc.26"
+  }
+}

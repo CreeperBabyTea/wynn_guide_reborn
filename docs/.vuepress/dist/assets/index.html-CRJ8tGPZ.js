@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r}from"./app-BgLojamw.js";const a={};function c(l,n){return r(),e("div")}const s=t(a,[["render",c]]),i=JSON.parse('{"path":"/INDEX.html","title":"Jasper Drill X","lang":"zh-CN","frontmatter":{"title":"Jasper Drill X"},"git":{},"filePathRelative":"INDEX.md"}');export{s as comp,i as data};
