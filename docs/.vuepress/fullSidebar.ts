@@ -6,6 +6,7 @@ export const fullSidebar: SidebarOptions = [
         collapsible: true,
         link: "/tutorial/",
         children: [
+            "/tutorial/quest",
             "/tutorial/startgame",
             "/tutorial/earlygame",
             "/tutorial/midgame",
@@ -19,7 +20,9 @@ export const fullSidebar: SidebarOptions = [
         children: [
             "/basic/class",
             "/basic/command",
-            "/basic/identification"
+            "/basic/identification",
+            "/basic/mmm",
+            "/basic/lore"
         ]
     },
     {
@@ -41,7 +44,7 @@ export const fullSidebar: SidebarOptions = [
             {
                 text: "Raid",
                 collapsible: true,
-                link: "/advanced/raid",
+                link: "/advanced/raid/",
                 children: [
                     "/advanced/raid/notg",
                     "/advanced/raid/nol",

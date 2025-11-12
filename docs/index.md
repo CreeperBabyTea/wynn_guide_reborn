@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: Wynncraft中文攻略 重栽版
-heroImage: /logo.svg
+heroImage: /assets/logo.svg
 heroFullScreen: true
 heroText: Wynncraft中文攻略
 tagline: By the players, for the players.

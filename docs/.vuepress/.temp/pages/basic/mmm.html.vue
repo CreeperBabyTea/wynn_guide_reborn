@@ -44,7 +44,7 @@
 <p>一些世界事件有一定的解锁条件（如下图这个需要完成<a href="https://wynncraft.wiki.gg/wiki/Ice_Nations" target="_blank" rel="noopener noreferrer">Ice Nations</a>）</p>
 </div>
 <p>在任务书中，你可以找到World Event一栏来看是否有即将开始的世界事件</p>
-<p><img src="/assets/img/basic/swashbuckling_brawl.png" alt=""></p>
+<p><img src="/assets/img/basic/swashbuckling_brawl.jpg" alt=""></p>
 <p>一些事件的奖励箱能开出昂贵素材/武器/装备 一些会连刷且能产出符文 这也是赚钱的点</p>
 <p>具体可以将不确定价格的3星素材和Unid的武器装备保留</p>
 <hr>

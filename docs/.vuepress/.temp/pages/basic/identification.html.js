@@ -1,5 +1,5 @@
 import comp from "E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/basic/identification.html.vue"
-const data = JSON.parse("{\"path\":\"/basic/identification.html\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"git\":{},\"filePathRelative\":\"basic/identification.md\"}")
+const data = JSON.parse("{\"path\":\"/basic/identification.html\",\"title\":\"词条与鉴定\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"词条与鉴定\"},\"git\":{\"updatedTime\":1762939701000,\"contributors\":[{\"name\":\"35578\",\"username\":\"35578\",\"email\":\"3557809672@qq.com\",\"commits\":1,\"url\":\"https://github.com/35578\"}],\"changelog\":[{\"hash\":\"a75cea7e3484d389c37050627aea24a819afdbfe\",\"time\":1762939701000,\"email\":\"3557809672@qq.com\",\"author\":\"35578\",\"message\":\"INITIAL COMMIT\"}]},\"filePathRelative\":\"basic/identification.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
