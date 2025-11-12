@@ -82,7 +82,7 @@ wynn目前有一个特性，就是你在游泳状态下向上顶到方块会把�
 
 在任务书中，你可以找到World Event一栏来看是否有即将开始的世界事件
 
-![](/assets/img/basic/swashbuckling_brawl.png)
+![](/assets/img/basic/swashbuckling_brawl.jpg)
 
 一些事件的奖励箱能开出昂贵素材/武器/装备 一些会连刷且能产出符文 这也是赚钱的点
 
