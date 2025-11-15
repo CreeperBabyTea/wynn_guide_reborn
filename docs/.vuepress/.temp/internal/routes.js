@@ -2,9 +2,12 @@ export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"Wynncraft中文攻略 重栽版"} }],
-  ["/advanced/build.html", { loader: () => import(/* webpackChunkName: "advanced_build.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/build.html.js"), meta: {"title":"配装教程"} }],
+  ["/zzzz.html", { loader: () => import(/* webpackChunkName: "zzzz.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/zzzz.html.js"), meta: {"title":"提问的艺术"} }],
+  ["/advanced/build.html", { loader: () => import(/* webpackChunkName: "advanced_build.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/build.html.js"), meta: {"title":"配装思路"} }],
   ["/advanced/guild.html", { loader: () => import(/* webpackChunkName: "advanced_guild.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/guild.html.js"), meta: {"title":""} }],
-  ["/advanced/mythic.html", { loader: () => import(/* webpackChunkName: "advanced_mythic.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/mythic.html.js"), meta: {"title":"公会系统"} }],
+  ["/advanced/huh.html", { loader: () => import(/* webpackChunkName: "advanced_huh.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/huh.html.js"), meta: {"title":""} }],
+  ["/advanced/mythic-old.html", { loader: () => import(/* webpackChunkName: "advanced_mythic-old.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/mythic-old.html.js"), meta: {"title":"神话物品"} }],
+  ["/advanced/mythic.html", { loader: () => import(/* webpackChunkName: "advanced_mythic.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/mythic.html.js"), meta: {"title":"神话物品一览"} }],
   ["/advanced/tome_and_aspect.html", { loader: () => import(/* webpackChunkName: "advanced_tome_and_aspect.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/tome_and_aspect.html.js"), meta: {"title":"Tome与Aspect"} }],
   ["/basic/class.html", { loader: () => import(/* webpackChunkName: "basic_class.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/basic/class.html.js"), meta: {"title":"职业与分支"} }],
   ["/basic/command.html", { loader: () => import(/* webpackChunkName: "basic_command.html" */"E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/basic/command.html.js"), meta: {"title":"常用指令"} }],

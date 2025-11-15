@@ -10,7 +10,8 @@ title: 职业与分支
 
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/archer.png">
+
+![](/assets/img/basic/archer.png)
 
 弓手是一个纯粹的输出职业，防御较低，但是机动性很高
 
@@ -99,7 +100,8 @@ Sharpshooter
 
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/mage.png">
+
+![](/assets/img/basic/mage.png)
 
 现版本中法师偏向辅助职业，法师的三个分支就是在辅助能力和输出能力之间做取舍
 
@@ -189,7 +191,8 @@ Arcanist
 
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/warrior.png">
+
+![](/assets/img/basic/warrior.png)
 
 战士拥有全职业最高的基础防御补正，战士的技能树同样是在输出能力和辅助能力之间取舍，但是输出和辅助的分支都非常极端
 
@@ -283,7 +286,8 @@ Paladin
 
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/shaman.png">
+
+![](/assets/img/basic/shaman.png)
 
 萨满拥有全职业最低的基础防御补正，同时萨满这个职业高度依赖召唤的图腾，一旦离开图腾范围就会失去一切战斗能力
 
@@ -355,7 +359,8 @@ Acolyte
 
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/assassin.png">
+
+![](/assets/img/basic/assassin.png)
 
 刺客同样是重要的dps职业，但是技能树比较抽象
 

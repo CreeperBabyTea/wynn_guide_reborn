@@ -1,24 +1,39 @@
 <template>
   <div class="wrapper">
     <div class="desc">
+      <img :src="icon" alt="">
       <slot name="desc"/>
     </div>
 
     <div class="archetypes">
       <div class="left">
+        <p class="archetype">{{ leftArchetype }}</p>
         <slot name="left"/>
       </div>
       <div class="mid">
+        <p class="archetype">{{midArchetype}}</p>
         <slot name="mid"/>
       </div>
       <div class="right">
+        <p class="archetype">{{rightArchetype}}</p>
         <slot name="right"/>
       </div>
     </div>
   </div>
 </template>
 
-<style>
+<script>
+export default {
+  props: {
+    icon: String,
+    leftArchetype: String,
+    midArchetype: String,
+    rightArchetype: String
+  }
+}
+</script>
+
+<style scoped>
 .archetypes {
   display: flex;
   flex-wrap: nowrap;

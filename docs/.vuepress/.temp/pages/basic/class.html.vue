@@ -8,7 +8,7 @@
 <template #tab0="{ value, isActive }">
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/archer.png">
+<p><img src="/assets/img/basic/archer.png" alt=""></p>
 <p>弓手是一个纯粹的输出职业，防御较低，但是机动性很高</p>
 <p>弓手的技能几乎完全是输出技能，因此是天生的玻璃大炮选手。同时弓手的技能往往不带穿透，因此定位是纯粹的对王输出职业</p>
 <p><strong>基础技能</strong></p>
@@ -81,7 +81,7 @@
 <template #tab1="{ value, isActive }">
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/mage.png">
+<p><img src="/assets/img/basic/mage.png" alt=""></p>
 <p>现版本中法师偏向辅助职业，法师的三个分支就是在辅助能力和输出能力之间做取舍</p>
 <p>法师有全职业中最舒服的治疗技能和较好的机动性，是团本中不可或缺的角色</p>
 <p><strong>基础技能</strong></p>
@@ -155,7 +155,7 @@
 <template #tab2="{ value, isActive }">
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/warrior.png">
+<p><img src="/assets/img/basic/warrior.png" alt=""></p>
 <p>战士拥有全职业最高的基础防御补正，战士的技能树同样是在输出能力和辅助能力之间取舍，但是输出和辅助的分支都非常极端</p>
 <p>战士的攻击范围近但是aoe极大，同时拥有非常舒适的位移技能，全流程体验较好，适合新手入门</p>
 <p><strong>基础技能</strong></p>
@@ -207,28 +207,91 @@
 </ul>
 </template>
 <template #right>
+<p>Paladin</p>
+<p>圣骑士的技能树基本都是在强化坦度和辅助能力，加之战士超高的基础防御补正，是天生的坦克角色</p>
+<p>同时，结合腐化战士与武道士的部分技能，圣骑士也能拥有一定输出</p>
+<p><strong>综合评价</strong></p>
+<ul>
+<li>难度：★</li>
+<li>伤害：★</li>
+<li>机动：★★★★★</li>
+<li>生存：★★★★★★★★★★★★</li>
+</ul>
+<p><strong>重要技能</strong></p>
+<ul>
+<li>Mantle of the Bovemists: 战吼召唤圣盾</li>
+<li>Sacred Surge: 释放技能和挨揍积攒神圣能量</li>
+<li>Embodying Cry: 战吼对周围玩家提供增伤和抗性</li>
+<li>Provoke: 战吼使周围的怪仇恨到你</li>
+<li>Radiance: 重击对范围内所有玩家全词条增益</li>
+<li>Heavenly Trumpet: 消耗所有神圣能量施加金血</li>
+<li>Second Chance: 允许每十分钟复活一次</li>
+</ul>
 </template>
 </ClassArchetypes>
 </template>
 <template #tab3="{ value, isActive }">
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/shaman.png">
+<p><img src="/assets/img/basic/shaman.png" alt=""></p>
 <p>萨满拥有全职业最低的基础防御补正，同时萨满这个职业高度依赖召唤的图腾，一旦离开图腾范围就会失去一切战斗能力</p>
 <p>萨满的治疗和输出都非常强悍，但是代价是极高的操作难度和风险</p>
+<p><strong>基础技能</strong></p>
+<ul>
+<li>一技能：Totem，召唤图腾</li>
+<li>二技能：Haul，向图腾方向移动</li>
+<li>三技能：Aura，图腾发出光环，造成伤害</li>
+<li>四技能：Uproot，发射一个投掷物造成伤害</li>
+</ul>
 </template>
 <template #left>
+<p>Summoner</p>
 </template>
 <template #mid>
+<p>Ritualist</p>
+<p>圣祭司的铲除被替换为穿上假面，不同的假面会有独特的buff和debuff。圣祭司一般不会一点到底，而是为召唤师或血教徒提供增伤</p>
+<p>圣祭司的终极大招会提供所有假面的buff，同时取消debuff</p>
+<p><strong>综合评价</strong></p>
+<ul>
+<li>难度：-</li>
+<li>伤害：-</li>
+<li>机动：-</li>
+<li>生存：-</li>
+</ul>
+<p><strong>重要技能</strong></p>
+<ul>
+<li>Mask of Lunatic: 红面具，增伤减防</li>
+<li>Mask of Fanatic: 黄面具，增防减速</li>
+<li>Mask of Heretic: 蓝面具，增速减伤</li>
+<li>Awakened: 兼具三个面具的增益，同时取消负面效果</li>
+</ul>
 </template>
 <template #right>
+<p>Acolyte</p>
+<p>血教徒是所有职业、所有分支中上手难度最高的，血教徒的核心机制在于抽血填充血池，再利用血池进行输出和治疗</p>
+<p>技术好的血萨既有相当的输出能力，又有极强的辅助能力。但是不熟练的话容易导致血量被抽干</p>
+<p><strong>综合评价</strong></p>
+<ul>
+<li>难度：★★★★★★</li>
+<li>伤害：★★★★★</li>
+<li>机动：★</li>
+<li>生存：★★</li>
+</ul>
+<p><strong>重要技能</strong></p>
+<ul>
+<li>Sacrificial Shrine: 图腾抽血，光环消耗血池回血并获得增伤</li>
+<li>Vengeful Spirit: 图腾范围内所有玩家增伤</li>
+<li>Eldritch Call: 潜行释放图腾将图腾时长设置为十秒，同时召唤触手输出</li>
+<li>Blood Rite: 玩家在图腾范围内受伤会填充血池</li>
+<li>Blood Sorrow: 消耗血池召唤激光，对敌人造成高额伤害、对队友施加高额金血</li>
+</ul>
 </template>
 </ClassArchetypes>
 </template>
 <template #tab4="{ value, isActive }">
 <ClassArchetypes>
 <template #desc>
-<img src="/assets/img/basic/assassin.png">
+<p><img src="/assets/img/basic/assassin.png" alt=""></p>
 <p>刺客同样是重要的dps职业，但是技能树比较抽象</p>
 <p>主流刺客武器在提供高额输出的同时也有很好的坦度和回转，熟练后手感不输弓手</p>
 </template>
