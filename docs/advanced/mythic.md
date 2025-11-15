@@ -2676,7 +2676,7 @@ hm鞋，但是不如blind thrust，下一位
     }
 
     .thunder::before {
-        content: ""
+        content: "✦ "
     }
 
     .water {
@@ -2684,7 +2684,7 @@ hm鞋，但是不如blind thrust，下一位
     }
 
     .water::before {
-        content: ""
+        content: "❉ "
     }
 
     .fire {
