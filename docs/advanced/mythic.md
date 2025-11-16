@@ -1,7 +1,7 @@
 ---
 title: 神话物品一览
 styles:
-- /styles/item.css
+  - /styles/item.css
 ---
 
 神话物品往往有高于非神话物品的强度，一般而言每名玩家到游戏后期都要有一把趁手的神话武器。
@@ -22,7 +22,7 @@ styles:
 
 ## 弓手
 
-:::tabs
+:::tabs#archer
 
 @tab Az
 
@@ -79,7 +79,7 @@ styles:
             <span><span class="thunder">Thunder </span>Damage: 35-145</span><br>
             <span><span class="water">Water </span>Damage: 55-125</span><br>
             <span><span class="fire">Fire </span>Damage: 65-115</span><br>
-            <span><span class="air">Air </span>Damage: 55-135</span><br>
+            <span><span class="air">Air </span>Damage: 45-135</span><br>
             <span><span class="gray avg-dps">Average DPS: </span>927</span>
         </p>
         <p class="requirements">
@@ -95,11 +95,11 @@ styles:
             <span class="id-positive">+30</span> Agility
         </p>
         <p class="id">
-            <span class="id-positive">+60 <span class="bonus-to">to</span> +260</span> Main Attack Damage<br>
-            <span class="id-positive">+60 <span class="bonus-to">to</span> +260</span> Spell Damage<br>
-            <span class="id-positive">+300 <span class="bonus-to">to</span> +1300</span> Health<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +13/5s</span> Mana Regen<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Walk Speed
+            <span class="id-positive">+3 <span>to</span> +13/5s</span> Mana Regen<br>
+            <span class="id-positive">+281 <span>to</span> +1216</span> Health<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Walk Speed<br>
+            <span class="id-positive">+60 <span>to</span> +260</span> Spell Damage<br>
+            <span class="id-positive">+60 <span>to</span> +260</span> Main Attack Damage
         </p>
         <p class="powder-rarity">
             [4] Powder slots<br>
@@ -139,13 +139,13 @@ bolt加强后一举成为弓手家的三把手
             <span class="id-positive">+55</span> Agility
         </p>
         <p class="id">
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +27%</span> Main Attack Damage<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +27%</span> Spell Damage<br>
-            <span class="id-negative">-45 <span class="bonus-to-negative">to</span> -24%</span> Health Regen<br>
-            <span class="id-negative">-786 <span class="bonus-to-negative">to</span> -423</span> Health Regen<br>
-            <span class="id-negative">-8 <span class="bonus-to-negative">to</span> -4%</span> Walk Speed<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Xp Bonus<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Loot Bonus
+            <span class="id-negative">-975 <span>to</span> -525</span> Health Regen<br>
+            <span class="id-negative">-45 <span>to</span> -24%</span> Health Regen<br>
+            <span class="id-negative">-8 <span>to</span> -4%</span> Walk Speed<br>
+            <span class="id-positive">+6 <span>to</span> +27%</span> Spell Damage<br>
+            <span class="id-positive">+6 <span>to</span> +27%</span> Main Attack Damage<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Xp Bonus<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Loot Bonus
         </p>
         <p class="powder-rarity">
             [4] Powder slots<br>
@@ -175,9 +175,9 @@ trapper活着的时候gma生活在laby和dz的阴影之下，trapper死后gma更
             <span class="item-attribute">Super Fast Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="neutral">Neutral Damage: </span>35-36</span><br>
+            <span><span class="neutral">Neutral Damage: </span>35-436</span><br>
             <span><span class="thunder">Thunder </span>Damage: 235-235</span><br>
-            <span><span class="gray avg-dps">Average DPS: </span>1163</span>
+            <span><span class="gray avg-dps">Average DPS: </span>1026</span>
         </p>
         <p class="requirements">
             Class Req: Archer/Hunter<br>
@@ -190,13 +190,13 @@ trapper活着的时候gma生活在laby和dz的阴影之下，trapper死后gma更
             <span class="id-negative">-550</span> Agility
         </p>
         <p class="id">
-            <span class="id-positive">+161 <span class="bonus-to">to</span> +697</span> Main Attack Damage<br>
-            <span class="id-positive">+76 <span class="bonus-to">to</span> +329</span> Spell Damage<br>
-            <span class="id-positive">+274 <span class="bonus-to">to</span> +1186/3s</span> Life Steal<br>
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39/3s</span> Mana Steal<br>
+            <span class="id-positive">+274 <span>to</span> +1186/3s</span> Life Steal<br>
+            <span class="id-positive">+9 <span>to</span> +39/3s</span> Mana Steal<br>
+            <span class="id-negative">-715 <span>to</span> -385%</span> Fire Damage<br>
+            <span class="id-negative">-715 <span>to</span> -385%</span> Water Damage<br>
             <span class="id-positive">+1 tier</span> Attack Speed<br>
-            <span class="id-negative">-715 <span class="bonus-to-negative">to</span> -385%</span> Water Damage<br>
-            <span class="id-negative">-715 <span class="bonus-to-negative">to</span> -385%</span> Fire Damage
+            <span class="id-positive">+76 <span>to</span> +329</span> Spell Damage<br>
+            <span class="id-positive">+161 <span>to</span> +697</span> Main Attack Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -217,6 +217,8 @@ bolt的拯救者，服务器tps的撕裂者，fps的破坏者，老头和巨像�
 比其他弓的dps高一倍的神
 
 会玩的能在raid横着走，不会玩每个房间都死一次
+
+> 115+37dex
 
 @tab Spring
 
@@ -243,11 +245,11 @@ bolt的拯救者，服务器tps的撕裂者，fps的破坏者，老头和巨像�
             <span class="id-positive">+15</span> Intelligence
         </p>
         <p class="id">
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39/5s</span> Mana Regen<br>
-            <span class="id-positive">+6% <span class="bonus-to">to</span> +25%</span> Slow Enemy<br>
-            <span class="id-positive">+6% <span class="bonus-to">to</span> +25%</span> Weaken Enemy<br>
-            <span class="id-negative">-65 <span class="bonus-to-negative">to</span> -35%</span> Thunder Damage<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Water Damage
+            <span class="id-positive">+9 <span>to</span> +39/5s</span> Mana Regen<br>
+            <span class="id-positive">+6% <span>to</span> +25%</span> Slow Enemy<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Water Damage<br>
+            <span class="id-positive">+6% <span>to</span> +25%</span> Weaken Enemy<br>
+            <span class="id-negative">-65 <span>to</span> -35%</span> Thunder Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -292,12 +294,12 @@ bolt的二把手
             <span class="id-positive">+20</span> Defence
         </p>
         <p class="id">
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Health Regen<br>
-            <span class="id-positive">+104 <span class="bonus-to">to</span> +449</span> Health Regen<br>
-            <span class="id-positive">+900 <span class="bonus-to">to</span> +3900</span> Health<br>
-            <span class="id-positive">-10 <span class="bonus-to">to</span> -45%</span> Arrow Shield Cost<br>
-            <span class="id-positive">+30 <span class="bonus-to">to</span> +130%</span> Fire Defence<br>
-            <span class="id-positive">+15 <span class="bonus-to">to</span> +65%</span> Air Defence<br>
+            <span class="id-positive">+12 <span>to</span> +52%</span> Health Regen<br>
+            <span class="id-positive">+120 <span>to</span> +520</span> Health Regen<br>
+            <span class="id-positive">+900 <span>to</span> +3900</span> Health<br>
+            <span class="id-positive">-10 <span>to</span> -45%</span> Arrow Shield Cost<br>
+            <span class="id-positive">+30 <span>to</span> +130%</span> Fire Defence<br>
+            <span class="id-positive">+15 <span>to</span> +65%</span> Air Defence<br>
             <span class="major-id-name">+Heart of the Pack:</span> <span class="major-id-desc">Nearby players gain 100% of the health you gain from Health Regen and Life Steal.</span>
         </p>
         <p class="powder-rarity">
@@ -327,7 +329,7 @@ bolt的二把手
         </p>
         <p class="damage">
             <span><span class="neutral">Neutral Damage: </span>75-175</span><br>
-            <span><span class="air">Air </span>Damage: 14-300</span><br>
+            <span><span class="air">Air </span>Damage: 140-300</span><br>
             <span><span class="gray avg-dps">Average DPS: </span>862</span>
         </p>
         <p class="requirements">
@@ -336,14 +338,14 @@ bolt的二把手
             Agility Min: 115
         </p>
         <p class="id">
-            <span class="id-positive">+25</span> Agility
+            <span class="id-positive">+35</span> Agility
         </p>
         <p class="id">
-            <span class="id-positive">+4 <span class="bonus-to">to</span> +16%</span> Main Attack Damage<br>
-            <span class="id-positive">+4 <span class="bonus-to">to</span> +16%</span> Spell Damage<br>
-            <span class="id-negative">-2600 <span class="bonus-to-negative">to</span> -1400</span> Health<br>
-            <span class="id-positive">+4 <span class="bonus-to">to</span> +16%</span> Reflection<br>
-            <span class="id-positive">+23 <span class="bonus-to">to</span> +99%</span> Walk Speed
+            <span class="id-positive">+69 <span>to</span> +300</span> Air Main Attack Damage<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Spell Damage<br>
+            <span class="id-negative">-2600 <span>to</span> -1400</span> Health<br>
+            <span class="id-positive">+4 <span>to</span> +26%</span> Reflection<br>
+            <span class="id-positive">+23 <span>to</span> +99%</span> Walk Speed
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -359,7 +361,7 @@ bolt的二把手
 
 99ws享受者，永利跑男，弓手lr小玩具
 
->但是为什么用弓手lr
+> 但是为什么用弓手lr
 
 除此之外没啥别的印象了，多少有点可惜的面板
 
@@ -374,8 +376,8 @@ bolt的二把手
         </p>
         <p class="damage">
             <span><span class="neutral">Neutral Damage: </span>450-620</span><br>
-            <span><span class="air">Air </span>Damage: 440-600</span><br>
-            <span><span class="thunder">Thunder </span>Damage: 480-560</span><br>
+            <span><span class="air">Air </span>Damage: 480-560</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 440-600</span><br>
             <span><span class="gray avg-dps">Average DPS: </span>803</span>
         </p>
         <p class="requirements">
@@ -385,14 +387,14 @@ bolt的二把手
             Agility Min: 70
         </p>
         <p class="id">
-            <span class="id-positive">+92 <span class="bonus-to">to</span> +400</span> Main Attack Damage<br>
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Spell Damage<br>
-            <span class="id-positive">+233 <span class="bonus-to">to</span> +1008/3s</span> Life Steal<br>
-            <span class="id-negative">-8 <span class="bonus-to-negative">to</span> -4/3s</span> Mana Steal<br>
-            <span class="id-positive">-1 <span class="bonus-to">to</span> -5</span> Arrow Storm Cost<br>
-            <span class="id-positive">-1 <span class="bonus-to">to</span> -5</span> Arrow Shield Cost<br>
-            <span class="id-negative">-26 <span class="bonus-to-negative">to</span> -14%</span> Walk Speed<br>
-            <span class="id-positive">+21 <span class="bonus-to">to</span> +91%</span> Sprint
+            <span class="id-positive">+21 <span>to</span> +91%</span> Sprint<br>
+            <span class="id-positive">+233 <span>to</span> +1008/3s</span> Life Steal<br>
+            <span class="id-negative">-8 <span>to</span> -4/3s</span> Mana Steal<br>
+            <span class="id-negative">-26 <span>to</span> -14%</span> Walk Speed<br>
+            <span class="id-positive">+12 <span>to</span> +52%</span> Spell Damage<br>
+            <span class="id-positive">-1 <span>to</span> -5</span> Arrow Storm Cost<br>
+            <span class="id-positive">-1 <span>to</span> -5</span> Arrow Shield Cost<br>
+            <span class="id-positive">+92 <span>to</span> +400</span> Main Attack Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -434,13 +436,12 @@ tcc轮椅，但是为什么这么贵
             <span class="id-positive">+20</span> Defence
         </p>
         <p class="id">
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +14/3s</span> Mana Steal<br>
-            <span class="id-positive">-6 <span class="bonus-to">to</span> -25%</span> Arrow Bomb Cost<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +14%</span> Slow Enemy<br>
-            <span class="id-positive">+7 <span class="bonus-to">to</span> +30%</span> Earth Damage<br>
-            <span class="id-positive">+7 <span class="bonus-to">to</span> +30%</span> Fire Damage<br>
-            <span class="major-id-name">+Twisting Threads:</span> <span class="major-id-desc">Tangled Traps ropes gain +1 range, can overlap up to 3 times, and deal <span
-                class="neutral">40%</span>. Gain +12 traps that cannot be triggered by enemies.</span>
+            <span class="id-positive">+3 <span>to</span> +14/3s</span> Mana Steal<br>
+            <span class="id-positive">-6 <span>to</span> -25%</span> Arrow Bomb Cost<br>
+            <span class="id-positive">+3 <span>to</span> +14%</span> Slow Enemy<br>
+            <span class="id-positive">+7 <span>to</span> +30%</span> Earth Damage<br>
+            <span class="id-positive">+7 <span>to</span> +30%</span> Fire Damage<br>
+            <span class="major-id-name">+Twisting Threads:</span> <span class="major-id-desc">Tangled Traps ropes gain +1 range, can overlap up to 3 times, and deal <span class="neutral">30%</span>. Gain +12 traps with 66% duration that cannot be triggered by enemies.</span>
         </p>
         <p class="powder-rarity">
             [2] Powder slots<br>
@@ -486,11 +487,11 @@ tcc轮椅，但是为什么这么贵
             Agility Min: 30
         </p>
         <p class="id">
-            <span class="id-negative">-19 <span class="bonus-to-negative">to</span> -10%</span> Main Attack Damage<br>
-            <span class="id-positive">+120 <span class="bonus-to">to</span> +520%</span> Spell Damage<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26/3s</span> Mana Steal<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Reflection<br>
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39%</span> Xp Bonus<br>
+            <span class="id-negative">-19 <span>to</span> -10%</span> Main Attack Damage<br>
+            <span class="id-positive">+120 <span>to</span> +520%</span> Spell Damage<br>
+            <span class="id-positive">+6 <span>to</span> +26/3s</span> Mana Steal<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Reflection<br>
+            <span class="id-positive">+9 <span>to</span> +39%</span> Xp Bonus<br>
             <span class="major-id-name">+Gravity Well:</span> <span class="major-id-desc">Meteor has increased blast radius and pulls enemies instead</span>
         </p>
         <p class="powder-rarity">
@@ -522,8 +523,8 @@ tcc轮椅，但是为什么这么贵
             <span class="item-attribute">Super Slow Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="earth">Earth </span>Damage: 165-205</span><br>
-            <span><span class="earth">Thunder </span>Damage: 60-305</span><br>
+            <span><span class="earth">Earth </span>Damage: 160-205</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 60-305</span><br>
             <span><span class="water">Water </span>Damage: 135-230</span><br>
             <span><span class="fire">Fire </span>Damage: 110-255</span><br>
             <span><span class="air">Air </span>Damage: 85-280</span><br>
@@ -542,12 +543,12 @@ tcc轮椅，但是为什么这么贵
             <span class="id-positive">+35</span> Dexterity
         </p>
         <p class="id">
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Main Attack Damage<br>
-            <span class="id-positive">+133 <span class="bonus-to">to</span> +577</span> Main Attack Damage<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +13%</span> Spell Damage<br>
-            <span class="id-positive">+67 <span class="bonus-to">to</span> +289</span> Spell Damage<br>
-            <span class="id-positive">+75 <span class="bonus-to">to</span> +325</span> Health Regen<br>
-            <span class="id-negative">-52 <span class="bonus-to-negative">to</span> -28%</span> Walk Speed<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Main Attack Damage<br>
+            <span class="id-positive">+133 <span>to</span> +577</span> Main Attack Damage<br>
+            <span class="id-positive">+3 <span>to</span> +13%</span> Spell Damage<br>
+            <span class="id-positive">+67 <span>to</span> +289</span> Spell Damage<br>
+            <span class="id-positive">+75 <span>to</span> +325</span> Health Regen<br>
+            <span class="id-negative">-52 <span>to</span> -28%</span> Walk Speed<br>
             <span class="major-id-name">+Orbital Chain:</span> <span class="major-id-desc">Chain Lightning hits slower, rebounds, adds 6 chains, and pulls mobs closer for a <span
                 class="neutral">1500%</span> explosion spell.</span>
         </p>
@@ -586,11 +587,11 @@ tcc轮椅，但是为什么这么贵
             <span class="id-positive">+25</span> Strength
         </p>
         <p class="id">
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Main Attack Damage<br>
-            <span class="id-positive">+173 <span class="bonus-to">to</span> +748</span> Main Attack Damage<br>
-            <span class="id-positive">+6000 <span class="bonus-to">to</span> +26000/3s</span> Poison<br>
-            <span class="id-positive">-3 <span class="bonus-to">to</span> -12</span> Ice Snake Cost<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Thorns<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Main Attack Damage<br>
+            <span class="id-positive">+173 <span>to</span> +748</span> Main Attack Damage<br>
+            <span class="id-positive">+6000 <span>to</span> +26000/3s</span> Poison<br>
+            <span class="id-positive">-3 <span>to</span> -12</span> Ice Snake Cost<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Thorns<br>
             <span class="major-id-name">+Earthen Splinter:</span> <span class="major-id-desc">Quake channels nature energy into a powerful root, travelling underground and emerging under the nearest mob for <span
                 class="neutral">1200%.</span></span>
         </p>
@@ -620,7 +621,7 @@ tcc轮椅，但是为什么这么贵
             <span class="item-attribute">Very Fast Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="earth">Thunder </span>Damage: 1-310</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 1-310</span><br>
             <span><span class="gray avg-dps">Average DPS: </span>482</span>
         </p>
         <p class="requirements">
@@ -632,11 +633,11 @@ tcc轮椅，但是为什么这么贵
             <span class="id-positive">+25</span> Dexterity
         </p>
         <p class="id">
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Spell Damage<br>
-            <span class="id-positive">+2 <span class="bonus-to">to</span> +8/3s</span> Mana Steal<br>
-            <span class="id-negative">+36 <span class="bonus-to-negative">to</span> +20%</span> Heal Cost<br>
-            <span class="id-positive">-15 <span class="bonus-to">to</span> -64%</span> Teleport Cost<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Walk Speed
+            <span class="id-positive">+8 <span>to</span> +33%</span> Spell Damage<br>
+            <span class="id-positive">+2 <span>to</span> +8/3s</span> Mana Steal<br>
+            <span class="id-negative">+36 <span>to</span> +20%</span> Heal Cost<br>
+            <span class="id-positive">-15 <span>to</span> -64%</span> Teleport Cost<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Walk Speed
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -677,11 +678,11 @@ tcc轮椅，但是为什么这么贵
             <span class="id-positive">+20</span> Intelligence
         </p>
         <p class="id">
-            <span class="id-negative">-650 <span class="bonus-to-negative">to</span> -350/3s</span> Life Steal<br>
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52/3s</span> Mana Steal<br>
-            <span class="id-positive">+4 <span class="bonus-to">to</span> +18%</span> Healing Efficiency<br>
-            <span class="id-negative">-8 <span class="bonus-to-negative">to</span> -35%</span> Heal Cost<br>
-            <span class="id-positive">+23 <span class="bonus-to">to</span> +100%</span> Water Damage
+            <span class="id-negative">-780 <span>to</span> -420/3s</span> Life Steal<br>
+            <span class="id-positive">+12 <span>to</span> +52/3s</span> Mana Steal<br>
+            <span class="id-positive">+4 <span>to</span> +18%</span> Healing Efficiency<br>
+            <span class="id-positive">-8 <span>to</span> -35%</span> Heal Cost<br>
+            <span class="id-positive">+23 <span>to</span> +100%</span> Water Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -726,12 +727,12 @@ tcc轮椅，但是为什么这么贵
             <span class="id-positive">+40</span> Defence
         </p>
         <p class="id">
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Main Attack Damage<br>
-            <span class="id-positive">+900 <span class="bonus-to">to</span> +3900/3s</span> Health<br>
-            <span class="id-positive">+150 <span class="bonus-to">to</span> +650/3s</span> Life Steal<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +13/3s</span> Mana Steal<br>
-            <span class="id-negative">+5 <span class="bonus-to-negative">to</span> +3</span> Heal Cost<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Fire Damage
+            <span class="id-positive">+12 <span>to</span> +52%</span> Main Attack Damage<br>
+            <span class="id-positive">+900 <span>to</span> +3900</span> Health<br>
+            <span class="id-positive">+150 <span>to</span> +650/3s</span> Life Steal<br>
+            <span class="id-positive">+3 <span>to</span> +13/3s</span> Mana Steal<br>
+            <span class="id-negative">+5 <span>to</span> +3</span> Heal Cost<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Fire Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -767,18 +768,18 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
             Agility Min: 130
         </p>
         <p class="id">
-            <span class="id-positive">+20</span> Agility
+            <span class="id-positive">+25</span> Agility
         </p>
         <p class="id">
-            <span class="id-negative">-260 <span class="bonus-to-negative">to</span> -140%</span> Health Regen<br>
-            <span class="id-negative">-585 <span class="bonus-to-negative">to</span> -315</span> Health Regen<br>
-            <span class="id-negative">-58 <span class="bonus-to-negative">to</span> -31/5s</span> Mana Regen<br>
-            <span class="id-negative">-39% <span class="bonus-to-negative">to</span> -21%</span> Healing Efficiency<br>
-            <span class="id-positive">-90 <span class="bonus-to">to</span> -389</span> Teleport Cost<br>
-            <span class="id-positive">+27 <span class="bonus-to">to</span> +117%</span> Reflection<br>
-            <span class="id-positive">+54 <span class="bonus-to">to</span> +234%</span> Walk Speed<br>
-            <span class="id-positive">+15 <span class="bonus-to">to</span> +65%</span> Exploding<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Air Damage
+            <span class="id-negative">-260 <span>to</span> -140%</span> Health Regen<br>
+            <span class="id-negative">-780 <span>to</span> -420</span> Health Regen<br>
+            <span class="id-negative">-58 <span>to</span> -31/5s</span> Mana Regen<br>
+            <span class="id-negative">-39% <span>to</span> -21%</span> Healing Efficiency<br>
+            <span class="id-positive">-90 <span>to</span> -389</span> Teleport Cost<br>
+            <span class="id-positive">+27 <span>to</span> +117%</span> Reflection<br>
+            <span class="id-positive">+54 <span>to</span> +234%</span> Walk Speed<br>
+            <span class="id-positive">+15 <span>to</span> +65%</span> Exploding<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Air Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -820,11 +821,12 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
             Agility Min: 70
         </p>
         <p class="id">
-            <span class="id-positive">+77 <span class="bonus-to">to</span> +332</span> Spell Damage<br>
-            <span class="id-positive">+450 <span class="bonus-to">to</span> +1950/3s</span> Life Steal<br>
-            <span class="id-negative">-78 <span class="bonus-to-negative">to</span> -42%</span> Healing Efficiency<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +36%</span> Walk Speed<br>
-            <span class="id-positive">+1 <span class="bonus-to">to</span> +3</span> Jump Height
+            <span class="id-positive">+77 <span>to</span> +332</span> Spell Damage<br>
+            <span class="id-positive">+450 <span>to</span> +1950/3s</span> Life Steal<br>
+            <span class="id-negative">-78 <span>to</span> -42%</span> Healing Efficiency<br>
+            <span class="id-positive">+8 <span>to</span> +36%</span> Walk Speed<br>
+            <span class="id-positive">+1 <span>to</span> +3</span> Jump Height<br>
+            <span class="id-positive">+27 <span>to</span> +117</span> Main Attack Damage
         </p>
         <p class="powder-rarity">
             [4] Powder slots<br>
@@ -860,13 +862,13 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
             Defence Min: 70
         </p>
         <p class="id">
-            <span class="id-negative">-52 <span class="bonus-to-negative">to</span> -28%</span> Main Attack Damage<br>
-            <span class="id-positive">+225 <span class="bonus-to">to</span> +975/3s</span> Life Steal<br>
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39/3s</span> Mana Steal<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +13 tier</span> Attack Speed<br>
-            <span class="id-negative">-19 <span class="bonus-to-negative">to</span> -10%</span> Walk Speed<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +13%</span> Stealing<br>
-            <span class="major-id-name">+Fixate:</span> <span class="major-id-desc">Devitalize increases your Winded cap by 70 but loses 0.15% weaken per stack and decreases Winded damage effects by 55%.</span>
+            <span class="id-negative">-52 <span>to</span> -28%</span> Main Attack Damage<br>
+            <span class="id-positive">+225 <span>to</span> +975/3s</span> Life Steal<br>
+            <span class="id-positive">+9 <span>to</span> +39/3s</span> Mana Steal<br>
+            <span class="id-positive">+3 <span>to</span> +13 tier</span> Attack Speed<br>
+            <span class="id-negative">-19 <span>to</span> -10%</span> Walk Speed<br>
+            <span class="id-positive">+3 <span>to</span> +13%</span> Stealing<br>
+            <span class="major-id-name">+Fixate:</span> <span class="major-id-desc">Devitalize doubles your Winded cap, but lowers Winded damage effects by 30%. Timelock absorbs up to 120 Winded.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -899,7 +901,7 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
         </p>
         <p class="damage">
             <span><span class="neutral">Neutral Damage: </span>375-575</span><br>
-            <span><span class="fire">Fire </span>Damage: 450-800</span><br>
+            <span><span class="fire">Fire </span>Damage: 500-800</span><br>
             <span><span class="gray avg-dps">Average DPS: </span>574</span>
         </p>
         <p class="requirements">
@@ -911,16 +913,15 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
             <span class="id-positive">+35</span> Defence
         </p>
         <p class="id">
-            <span class="id-negative">-162 <span class="bonus-to-negative">to</span> -87%</span> Health Regen<br>
-            <span class="id-positive">+277 <span class="bonus-to">to</span> +1200/3s</span> Life Steal<br>
-            <span class="id-positive">+26 <span class="bonus-to">to</span> +14%</span> Uppercut Cost<br>
-            <span class="id-positive">+185 <span class="bonus-to">to</span> +801%</span> Exploding<br>
-            <span class="id-negative">-65 <span class="bonus-to-negative">to</span> -35%</span> Water Damage<br>
-            <span class="id-negative">-91 <span class="bonus-to-negative">to</span> -49%</span> Water Defence<br>
-            <span class="id-positive">+75 <span class="bonus-to">to</span> +325%</span> Fire Defence<br>
+            <span class="id-negative">-162 <span>to</span> -87%</span> Health Regen<br>
+            <span class="id-positive">+300 <span>to</span> +1300/3s</span> Life Steal<br>
+            <span class="id-positive">+26 <span>to</span> +14%</span> Uppercut Cost<br>
+            <span class="id-positive">+14 <span>to</span> +60%</span> Exploding<br>
+            <span class="id-negative">-65 <span>to</span> -35%</span> Water Damage<br>
+            <span class="id-negative">-91 <span>to</span> -49%</span> Water Defence<br>
+            <span class="id-positive">+75 <span>to</span> +325%</span> Fire Defence<br>
             <span class="major-id-name">+Hellfire:</span> <span class="major-id-desc">Bash is replaced by a single hit, gaining +3 radius and dealing <span
-                class="neutral">225%</span>, <span class="earth">40%</span>, and <span class="fire">60%</span>. Boiling Blood burns faster for <span
-                class="neutral">+40%</span> and <span class="fire">+50%</span> but can't slow.</span>
+                class="neutral">225%</span>, <span class="earth">40%</span>, and <span class="fire">60%</span>. Boiling Blood's cooldown is set to 2s, gains <span class="neutral">+40%</span>, <span class="fire">+50%</span>, and burns twice as fast for 1s, but can't slow.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -971,10 +972,10 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
             <span class="id-positive">+45</span> Strength
         </p>
         <p class="id">
-            <span class="id-positive">+20 <span class="bonus-to">to</span> +85%</span> Main Attack Damage<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +23/3s</span> Mana Steal<br>
-            <span class="id-positive">+75 <span class="bonus-to">to</span> +325%</span> Exploding<br>
-            <span class="id-negative">-84 <span class="bonus-to-negative">to</span> -45%</span> Elemental Defence<br>
+            <span class="id-positive">+20 <span>to</span> +85%</span> Main Attack Damage<br>
+            <span class="id-positive">+5 <span>to</span> +23/3s</span> Mana Steal<br>
+            <span class="id-positive">+100 <span>to</span> +433%</span> Exploding<br>
+            <span class="id-negative">-84 <span>to</span> -45%</span> Elemental Defence<br>
             <span class="major-id-name">+Fission:</span> <span class="major-id-desc">Explosions from your Exploding ID are twice as big and twice as strong.</span>
         </p>
         <p class="powder-rarity">
@@ -1019,9 +1020,9 @@ coll的unid甚至只有30le，词条也是全红都能用
             <span class="id-negative">-10</span> Agility
         </p>
         <p class="id">
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Main Attack Damage<br>
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Exploding<br>
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Earth Damage
+            <span class="id-positive">+12 <span>to</span> +52%</span> Main Attack Damage<br>
+            <span class="id-positive">+12 <span>to</span> +52%</span> Exploding<br>
+            <span class="id-positive">+12 <span>to</span> +52%</span> Earth Damage
         </p>
         <p class="powder-rarity">
             <span class="rarity">Mythic Item</span><br>
@@ -1048,9 +1049,9 @@ coll的unid甚至只有30le，词条也是全红都能用
             <span class="item-attribute">Very Fast Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="neutral">Neutral Damage: </span>50-90</span><br>
-            <span><span class="thunder">Thunder </span>Damage: 50-220</span><br>
-            <span><span class="gray avg-dps">Average DPS: </span>636</span>
+            <span><span class="neutral">Neutral Damage: </span>40-80</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 40-190</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>542</span>
         </p>
         <p class="requirements">
             Class Req: Warrior/Knight<br>
@@ -1061,11 +1062,11 @@ coll的unid甚至只有30le，词条也是全红都能用
             <span class="id-positive">+35</span> Dexterity
         </p>
         <p class="id">
-            <span class="id-negative">-78 <span class="bonus-to-negative">to</span> -42%</span> Health Regen<br>
-            <span class="id-negative">-1 <span class="bonus-to-negative">to</span> -5</span> Uppercut Cost<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +12%</span> Walk Speed<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Thunder Damage<br>
-            <span class="id-positive">+18 <span class="bonus-to">to</span> +78%</span> Water Damage
+            <span class="id-negative">-78 <span>to</span> -42%</span> Health Regen<br>
+            <span class="id-positive">-1 <span>to</span> -5</span> Uppercut Cost<br>
+            <span class="id-positive">+3 <span>to</span> +12%</span> Walk Speed<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Thunder Damage<br>
+            <span class="id-positive">+18 <span>to</span> +78%</span> Water Damage
         </p>
         <p class="powder-rarity">
             [4] Powder slots<br>
@@ -1102,14 +1103,14 @@ coll的unid甚至只有30le，词条也是全红都能用
             Intelligence Min: 120
         </p>
         <p class="id">
-            <span class="id-positive">+20</span> Intelligence
+            <span class="id-positive">+26</span> Intelligence
         </p>
         <p class="id">
-            <span class="id-positive">+79 <span class="bonus-to">to</span> +343</span> Spell Damage<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +13/5s</span> Mana Regen<br>
-            <span class="id-positive">-15 <span class="bonus-to">to</span> -65</span> Charge Cost<br>
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39%</span> Reflection<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Water Defence<br>
+            <span class="id-positive">+79 <span>to</span> +343</span> Spell Damage<br>
+            <span class="id-positive">+3 <span>to</span> +13/5s</span> Mana Regen<br>
+            <span class="id-positive">-15 <span>to</span> -65</span> Charge Cost<br>
+            <span class="id-positive">+9 <span>to</span> +39%</span> Reflection<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Water Defence<br>
             <span class="major-id-name">+Tidal Drift:</span> <span class="major-id-desc">Flying Kick will instead send you forwards. This effect is limited to once per Charge cast.</span>
         </p>
         <p class="powder-rarity">
@@ -1157,13 +1158,13 @@ super idol的笑容...
             <span class="id-positive">+20</span> Defence
         </p>
         <p class="id">
-            <span class="id-positive">+176 <span class="bonus-to">to</span> +761</span> Health Regen<br>
-            <span class="id-positive">+1800 <span class="bonus-to">to</span> +7800</span> Health<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +12/5s</span> Mana Regen<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Thorns<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Earth Defence<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Water Defence<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Fire Defence<br>
+            <span class="id-positive">+195 <span>to</span> +845</span> Health Regen<br>
+            <span class="id-positive">+1800 <span>to</span> +7800</span> Health<br>
+            <span class="id-positive">+3 <span>to</span> +12/5s</span> Mana Regen<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Thorns<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Earth Defence<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Water Defence<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Fire Defence<br>
             <span class="major-id-name">+Guardian:</span> <span class="major-id-desc">35% of damage taken by nearby allies is redirected to you.</span>
         </p>
         <p class="powder-rarity">
@@ -1209,9 +1210,9 @@ super idol的笑容...
             <span class="id-positive">+30</span> Agility
         </p>
         <p class="id">
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Main Attack Damage<br>
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Health Regen<br>
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Walk Speed<br>
+            <span class="id-positive">+12 <span>to</span> +52%</span> Main Attack Damage<br>
+            <span class="id-positive">+12 <span>to</span> +52%</span> Health Regen<br>
+            <span class="id-positive">+12 <span>to</span> +52%</span> Walk Speed<br>
             <span class="major-id-name">+Saviour's Sacrifice:</span> <span class="major-id-desc">While under 50% maximum health, nearby allies gain 15% bonus damage and defence.</span>
         </p>
         <p class="powder-rarity">
@@ -1240,8 +1241,8 @@ fallen被削，hero的base被削，风组件面板被削，42spell%被削
 
 而英雄的倒下彻底把fallen砸死了
 
->悼观  
->作哀
+> 悼观  
+> 作哀
 
 @tab Convergence
 
@@ -1253,10 +1254,10 @@ fallen被削，hero的base被削，风组件面板被削，42spell%被削
             <span class="item-attribute">Normal Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="neutral">Neutral Damage: </span>50-90</span><br>
-            <span><span class="water">Water </span>Damage: 95-115</span><br>
-            <span><span class="fire">Fire </span>Damage: 100-110</span><br>
-            <span><span class="gray avg-dps">Average DPS: </span>577</span>
+            <span><span class="neutral">Neutral Damage: </span>80-120</span><br>
+            <span><span class="water">Water </span>Damage: 75-105</span><br>
+            <span><span class="fire">Fire </span>Damage: 80-100</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>582</span>
         </p>
         <p class="requirements">
             Class Req: Warrior/Knight<br>
@@ -1265,12 +1266,12 @@ fallen被削，hero的base被削，风组件面板被削，42spell%被削
             Defence Min: 75
         </p>
         <p class="id">
-            <span class="id-positive">+13 <span class="bonus-to">to</span> +56%</span> Health Regen<br>
-            <span class="id-positive">-13 <span class="bonus-to">to</span> -58%</span> Uppercut Cost<br>
-            <span class="id-positive">+13 <span class="bonus-to">to</span> +56%</span> Sprint Regen<br>
-            <span class="id-positive">+17 <span class="bonus-to">to</span> +72%</span> Earth Damage<br>
-            <span class="id-positive">+17 <span class="bonus-to">to</span> +72%</span> Thunder Damage<br>
-            <span class="id-positive">+11 <span class="bonus-to">to</span> +46%</span> Air Defence
+            <span class="id-positive">+13 <span>to</span> +56%</span> Health Regen<br>
+            <span class="id-positive">-14 <span>to</span> -60%</span> Uppercut Cost<br>
+            <span class="id-positive">+13 <span>to</span> +56%</span> Sprint Regen<br>
+            <span class="id-positive">+23 <span>to</span> +99%</span> Earth Damage<br>
+            <span class="id-positive">+23 <span>to</span> +99%</span> Thunder Damage<br>
+            <span class="id-positive">+11 <span>to</span> +46%</span> Air Defence
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1310,11 +1311,11 @@ fallen被削，hero的base被削，风组件面板被削，42spell%被削
             <span class="id-positive">+30</span> Dexterity
         </p>
         <p class="id">
-            <span class="id-negative">-5200 <span class="bonus-to-negative">to</span> -2800</span> Health<br>
-            <span class="id-positive">+185 <span class="bonus-to">to</span> +800/3s</span> Life Steal<br>
-            <span class="id-negative">-130 <span class="bonus-to-negative">to</span> -70/5s</span> Mana Regen<br>
-            <span class="id-positive">-3 <span class="bonus-to">to</span> -13</span> Bash Cost<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Walk Speed
+            <span class="id-negative">-5200 <span>to</span> -2800</span> Health<br>
+            <span class="id-positive">+185 <span>to</span> +800/3s</span> Life Steal<br>
+            <span class="id-negative">-130 <span>to</span> -70/5s</span> Mana Regen<br>
+            <span class="id-positive">-3 <span>to</span> -13</span> Bash Cost<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Walk Speed
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1364,11 +1365,11 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
             <span class="id-positive">+20</span> Defence
         </p>
         <p class="id">
-            <span class="id-negative">-26 <span class="bonus-to-negative">to</span> -14%</span> Spell Damage<br>
-            <span class="id-positive">+555 <span class="bonus-to">to</span> +2405</span> Health<br>
-            <span class="id-negative">-8 <span class="bonus-to-negative">to</span> -36%</span> Uproot Cost<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Earth Damage<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Earth Defence
+            <span class="id-negative">-26 <span>to</span> -14%</span> Spell Damage<br>
+            <span class="id-positive">+555 <span>to</span> +2405</span> Health<br>
+            <span class="id-positive">-8 <span>to</span> -36%</span> Uproot Cost<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Earth Damage<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Earth Defence
         </p>
         <p class="powder-rarity">
             [4] Powder slots<br>
@@ -1414,13 +1415,13 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
             <span class="id-positive">+50</span> Intelligence
         </p>
         <p class="id">
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39%</span> Spell Damage<br>
-            <span class="id-negative">-26 <span class="bonus-to-negative">to</span> -14/5s</span> Mana Regen<br>
-            <span class="id-negative">-26 <span class="bonus-to-negative">to</span> -14/3s</span> Mana Steal<br>
-            <span class="id-positive">-13 <span class="bonus-to">to</span> -55%</span> Totem Cost<br>
-            <span class="id-positive">-13 <span class="bonus-to">to</span> -55%</span> Haul Cost<br>
-            <span class="id-positive">-13 <span class="bonus-to">to</span> -55%</span> Aura Cost<br>
-            <span class="id-positive">-13 <span class="bonus-to">to</span> -55%</span> Uproot Cost
+            <span class="id-positive">+9 <span>to</span> +39%</span> Spell Damage<br>
+            <span class="id-negative">-26 <span>to</span> -14/5s</span> Mana Regen<br>
+            <span class="id-negative">-26 <span>to</span> -14/3s</span> Mana Steal<br>
+            <span class="id-positive">-13 <span>to</span> -55%</span> Totem Cost<br>
+            <span class="id-positive">-13 <span>to</span> -55%</span> Haul Cost<br>
+            <span class="id-positive">-13 <span>to</span> -55%</span> Aura Cost<br>
+            <span class="id-positive">-13 <span>to</span> -55%</span> Uproot Cost
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1456,11 +1457,11 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
             <span class="id-positive">+40</span> Strength
         </p>
         <p class="id">
-            <span class="id-positive">+15000 <span class="bonus-to">to</span> +65000/3s</span> Poison<br>
-            <span class="id-positive">+150 <span class="bonus-to">to</span> +650/3s</span> Life Steal<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +23/3s</span> Mana Steal<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Walk Speed<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Loot Bonus<br>
+            <span class="id-positive">+15000 <span>to</span> +65000/3s</span> Poison<br>
+            <span class="id-positive">+150 <span>to</span> +650/3s</span> Life Steal<br>
+            <span class="id-positive">+5 <span>to</span> +23/3s</span> Mana Steal<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Walk Speed<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Loot Bonus<br>
         </p>
         <p class="powder-rarity">
             [2] Powder slots<br>
@@ -1492,12 +1493,12 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
             Dexterity Min: 115
         </p>
         <p class="id">
-            <span class="id-positive">+306 <span class="bonus-to">to</span> +1325</span> Main Attack Damage<br>
-            <span class="id-positive">+210 <span class="bonus-to">to</span> +910/3s</span> Life Steal<br>
-            <span class="id-negative">-19 <span class="bonus-to-negative">to</span> -10%</span> Healing Efficiency<br>
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39%</span> Thorns<br>
-            <span class="id-positive">+27 <span class="bonus-to">to</span> +117%</span> Reflection<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Thunder Damage<br>
+            <span class="id-positive">+306 <span>to</span> +1325</span> Main Attack Damage<br>
+            <span class="id-positive">+210 <span>to</span> +910/3s</span> Life Steal<br>
+            <span class="id-negative">-19 <span>to</span> -10%</span> Healing Efficiency<br>
+            <span class="id-positive">+9 <span>to</span> +39%</span> Thorns<br>
+            <span class="id-positive">+27 <span>to</span> +117%</span> Reflection<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Thunder Damage<br>
             <span class="id-positive">+1 tier</span> Attack Speed
         </p>
         <p class="powder-rarity">
@@ -1535,11 +1536,11 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
             Intelligence Min: 130
         </p>
         <p class="id">
-            <span class="id-positive">+23 <span class="bonus-to">to</span> +98%</span> Spell Damage<br>
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39/5s</span> Mana Regen<br>
-            <span class="id-negative">+65 <span class="bonus-to-negative">to</span> +35%</span> Aura Cost<br>
-            <span class="id-negative">+65 <span class="bonus-to-negative">to</span> +35%</span> Uproot Cost<br>
-            <span class="id-positive">+15 <span class="bonus-to">to</span> +65</span> Max Mana
+            <span class="id-positive">+23 <span>to</span> +98%</span> Spell Damage<br>
+            <span class="id-positive">+9 <span>to</span> +39/5s</span> Mana Regen<br>
+            <span class="id-negative">+65 <span>to</span> +35%</span> Aura Cost<br>
+            <span class="id-negative">+65 <span>to</span> +35%</span> Uproot Cost<br>
+            <span class="id-positive">+15 <span>to</span> +65</span> Max Mana
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1572,13 +1573,13 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
             Defence Min: 115
         </p>
         <p class="id">
-            <span class="id-positive">+900 <span class="bonus-to">to</span> +3900</span> Health<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +21/5s</span> Mana Regen<br>
-            <span class="id-positive">+23 <span class="bonus-to">to</span> +100%</span> Healing Efficiency<br>
-            <span class="id-positive">-6 <span class="bonus-to">to</span> -26</span> Totem Cost<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Fire Damage<br>
-            <span class="id-positive">+14 <span class="bonus-to">to</span> +59%</span> Earth Defence<br>
-            <span class="id-positive">+14 <span class="bonus-to">to</span> +59%</span> Thunder Defence
+            <span class="id-positive">+900 <span>to</span> +3900</span> Health<br>
+            <span class="id-positive">+5 <span>to</span> +21/5s</span> Mana Regen<br>
+            <span class="id-positive">+23 <span>to</span> +100%</span> Healing Efficiency<br>
+            <span class="id-positive">-6 <span>to</span> -26</span> Totem Cost<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Fire Damage<br>
+            <span class="id-positive">+14 <span>to</span> +59%</span> Earth Defence<br>
+            <span class="id-positive">+14 <span>to</span> +59%</span> Thunder Defence
         </p>
         <p class="powder-rarity">
             <span class="rarity">Mythic Item</span><br>
@@ -1617,12 +1618,12 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
             <span class="id-positive">+25</span> Agility
         </p>
         <p class="id">
-            <span class="id-negative">-3 <span class="bonus-to-negative">to</span> -13</span> Totem Cost<br>
-            <span class="id-negative">-3 <span class="bonus-to-negative">to</span> -13</span> Haul Cost<br>
-            <span class="id-positive">+11 <span class="bonus-to">to</span> +46%</span> Walk Speed<br>
-            <span class="id-positive">+2 <span class="bonus-to">to</span> +8</span> Jump Height<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Air Damage<br>
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39%</span> Air Defence
+            <span class="id-positive">-3 <span>to</span> -13</span> Totem Cost<br>
+            <span class="id-positive">-3 <span>to</span> -13</span> Haul Cost<br>
+            <span class="id-positive">+11 <span>to</span> +46%</span> Walk Speed<br>
+            <span class="id-positive">+2 <span>to</span> +8</span> Jump Height<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Air Damage<br>
+            <span class="id-positive">+9 <span>to</span> +39%</span> Air Defence
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1663,11 +1664,11 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
             <span class="id-positive">+75</span> Agility
         </p>
         <p class="id">
-            <span class="id-negative">-234 <span class="bonus-to-negative">to</span> -126%</span> Health Regen<br>
-            <span class="id-negative">-650 <span class="bonus-to-negative">to</span> -350%</span> Healing Efficiency<br>
-            <span class="id-positive">-6 <span class="bonus-to">to</span> -26%</span> Aura Cost<br>
-            <span class="id-positive">+14 <span class="bonus-to">to</span> +59%</span> Fire Damage<br>
-            <span class="id-positive">+14 <span class="bonus-to">to</span> +59%</span> Air Damage
+            <span class="id-negative">-234 <span>to</span> -126%</span> Health Regen<br>
+            <span class="id-negative">-650 <span>to</span> -350%</span> Healing Efficiency<br>
+            <span class="id-positive">-6 <span>to</span> -26%</span> Aura Cost<br>
+            <span class="id-positive">+14 <span>to</span> +59%</span> Fire Damage<br>
+            <span class="id-positive">+14 <span>to</span> +59%</span> Air Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1686,8 +1687,6 @@ notg之外就是查无此人
 > 伪装成abso的杂鱼
 
 @tab Resonance
-
-别名：reso
 
 <div class="item-window">
     <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.basicGold.webp" alt="Immolation" class="item-icon">
@@ -1712,14 +1711,13 @@ notg之外就是查无此人
             <span class="id-positive">+25</span> Defence
         </p>
         <p class="id">
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +36%</span> Elemental Spell Damage<br>
-            <span class="id-positive">+18 <span class="bonus-to">to</span> +78%</span> Health Regen<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20/5s</span> Mana Regen<br>
-            <span class="id-positive">-6 <span class="bonus-to">to</span> -25%</span> Uproot Cost<br>
-            <span class="id-negative">-36 <span class="bonus-to-negative">to</span> -20%</span> Sprint<br>
-            <span class="id-negative">-56 <span class="bonus-to-negative">to</span> -31%</span> Air Defence<br>
-            <span class="major-id-name">+Lifestream:</span> <span class="major-id-desc"> Blood Sorrow deals <span
-                class="neutral">500%</span> and grants 4 times the overhealth, but shortens its duration by 75%.</span>
+            <span class="id-positive">+8 <span>to</span> +36%</span> Elemental Spell Damage<br>
+            <span class="id-positive">+18 <span>to</span> +78%</span> Health Regen<br>
+            <span class="id-positive">+5 <span>to</span> +20/5s</span> Mana Regen<br>
+            <span class="id-positive">-6 <span>to</span> -25%</span> Uproot Cost<br>
+            <span class="id-negative">-36 <span>to</span> -20%</span> Sprint<br>
+            <span class="id-negative">-56 <span>to</span> -31%</span> Air Defence<br>
+            <span class="major-id-name">+Lifestream:</span> <span class="major-id-desc"> Blood Sorrow deals <span class="neutral">400%</span> and grants 4 times the overhealth, but shortens its duration by 75%.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1729,11 +1727,15 @@ notg之外就是查无此人
     </div>
 </div>
 
+别名：reso
+
 我的天哪共振大人
 
 力大砖飞的major，金液狂飙
 
 beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
+
+major倍率已经遭到一次削弱，但是不影响共振小姐继续射金
 
 但是好贵
 
@@ -1767,11 +1769,11 @@ beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
             <span class="id-positive">+15</span> Agility
         </p>
         <p class="id">
-            <span class="id-positive">+9 <span class="bonus-to">to</span> +39%</span> Health Regen<br>
-            <span class="id-positive">+45 <span class="bonus-to">to</span> +195</span> Health Regen<br>
-            <span class="id-positive">+570 <span class="bonus-to">to</span> +2470</span> Health<br>
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +53%</span> Walk Speed<br>
-            <span class="id-positive">+38 <span class="bonus-to">to</span> +163%</span> Main Attack Range
+            <span class="id-positive">+9 <span>to</span> +39%</span> Health Regen<br>
+            <span class="id-positive">+45 <span>to</span> +195</span> Health Regen<br>
+            <span class="id-positive">+570 <span>to</span> +2470</span> Health<br>
+            <span class="id-positive">+12 <span>to</span> +53%</span> Walk Speed<br>
+            <span class="id-positive">+38 <span>to</span> +163%</span> Main Attack Range
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1818,11 +1820,11 @@ beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
             <span class="id-positive">+40</span> Defence
         </p>
         <p class="id">
-            <span class="id-negative">-15600 <span class="bonus-to-negative">to</span> -8400/3s</span> Poison<br>
-            <span class="id-positive">+150 <span class="bonus-to">to</span> +650/3s</span> Life Steal<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +21/3s</span> Mana Steal<br>
-            <span class="id-positive">+24 <span class="bonus-to">to</span> +104%</span> Reflection<br>
-            <span class="id-positive">+46 <span class="bonus-to">to</span> +200%</span> Elemental Defence<br>
+            <span class="id-negative">-15600 <span>to</span> -8400/3s</span> Poison<br>
+            <span class="id-positive">+150 <span>to</span> +650/3s</span> Life Steal<br>
+            <span class="id-positive">+5 <span>to</span> +21/3s</span> Mana Steal<br>
+            <span class="id-positive">+24 <span>to</span> +104%</span> Reflection<br>
+            <span class="id-positive">+46 <span>to</span> +200%</span> Elemental Defence<br>
             <span class="major-id-name">+Punishment:</span> <span class="major-id-desc"> Reflected damage blinds enemies for 1s and makes them 10% more vulnerable to attacks for 3s.</span>
         </p>
         <p class="powder-rarity">
@@ -1858,12 +1860,12 @@ beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
             <span class="id-positive">+15</span> Strength
         </p>
         <p class="id">
-            <span class="id-positive">+3750 <span class="bonus-to">to</span> +16250/3s</span> Poison<br>
-            <span class="id-positive">+210 <span class="bonus-to">to</span> +910/3s</span> Life Steal<br>
-            <span class="id-negative">-13 <span class="bonus-to-negative">to</span> -7/3s</span> Mana Steal<br>
-            <span class="id-negative">+5 <span class="bonus-to-negative">to</span> +3</span> Dash Cost<br>
-            <span class="id-positive">-3 <span class="bonus-to">to</span> -13</span> Smoke Bomb Cost<br>
-            <span class="id-positive">+21 <span class="bonus-to">to</span> +91%</span> Thorns
+            <span class="id-positive">+3750 <span>to</span> +16250/3s</span> Poison<br>
+            <span class="id-positive">+210 <span>to</span> +910/3s</span> Life Steal<br>
+            <span class="id-negative">-13 <span>to</span> -7/3s</span> Mana Steal<br>
+            <span class="id-negative">+5 <span>to</span> +3</span> Dash Cost<br>
+            <span class="id-positive">-3 <span>to</span> -13</span> Smoke Bomb Cost<br>
+            <span class="id-positive">+21 <span>to</span> +91%</span> Thorns
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1900,11 +1902,11 @@ beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
             <span class="id-positive">+20</span> Dexterity
         </p>
         <p class="id">
-            <span class="id-negative">-7800 <span class="bonus-to-negative">to</span> -4200</span> Health<br>
-            <span class="id-positive">-1 <span class="bonus-to">to</span> -5</span> Spin Attack Cost<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +27%</span> Thorns<br>
-            <span class="id-positive">+2 <span class="bonus-to">to</span> +7%</span> Stealing<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +22%</span> Thunder Damage
+            <span class="id-negative">-7800 <span>to</span> -4200</span> Health<br>
+            <span class="id-positive">-1 <span>to</span> -5</span> Spin Attack Cost<br>
+            <span class="id-positive">+6 <span>to</span> +27%</span> Thorns<br>
+            <span class="id-positive">+2 <span>to</span> +7%</span> Stealing<br>
+            <span class="id-positive">+5 <span>to</span> +22%</span> Thunder Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1940,12 +1942,12 @@ beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
             <span class="id-positive">+40</span> Intelligence
         </p>
         <p class="id">
-            <span class="id-negative">-104 <span class="bonus-to-negative">to</span> -56%</span> Main Attack Damage<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Spell Damage<br>
-            <span class="id-negative">-2600 <span class="bonus-to-negative">to</span> -1400</span> Health<br>
-            <span class="id-positive">+3 <span class="bonus-to">to</span> +13/5s</span> Mana Regen<br>
-            <span class="id-negative">-26 <span class="bonus-to-negative">to</span> -14/3s</span> Mana Steal<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20%</span> Reflection<br>
+            <span class="id-negative">-104 <span>to</span> -56%</span> Main Attack Damage<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Spell Damage<br>
+            <span class="id-negative">-2600 <span>to</span> -1400</span> Health<br>
+            <span class="id-positive">+3 <span>to</span> +13/5s</span> Mana Regen<br>
+            <span class="id-negative">-26 <span>to</span> -14/3s</span> Mana Steal<br>
+            <span class="id-positive">+5 <span>to</span> +20%</span> Reflection<br>
             <span class="major-id-name">+Transcendence:</span> <span class="major-id-desc">30% chance for spells to cost no mana when casted</span>
         </p>
         <p class="powder-rarity">
@@ -1958,7 +1960,7 @@ beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
 
 回蓝，爽！不耗蓝，更爽！
 
-然而刺客现版本已经不需要回转了
+然而刺客现版本已经不需要高mr了
 
 @tab Inferno
 
@@ -1982,13 +1984,13 @@ beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
             <span class="id-positive">+15</span> Defence
         </p>
         <p class="id">
-            <span class="id-positive">+168 <span class="bonus-to">to</span> +728</span> Main Attack Damage<br>
-            <span class="id-negative">-84 <span class="bonus-to-negative">to</span> -45%</span> Health Regen<br>
-            <span class="id-positive">+450 <span class="bonus-to">to</span> +1950</span> Health<br>
-            <span class="id-positive">-1 <span class="bonus-to">to</span> -5</span> Spin Attack Cost<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Walk Speed<br>
-            <span class="id-positive">+14 <span class="bonus-to">to</span> +60%</span> Fire Damage<br>
-            <span class="id-negative">-52 <span class="bonus-to-negative">to</span> -28%</span> Water Defence
+            <span class="id-positive">+231 <span>to</span> +1000</span> Main Attack Damage<br>
+            <span class="id-negative">-84 <span>to</span> -45%</span> Health Regen<br>
+            <span class="id-positive">+450 <span>to</span> +1950</span> Health<br>
+            <span class="id-positive">-1 <span>to</span> -5</span> Spin Attack Cost<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Walk Speed<br>
+            <span class="id-positive">+14 <span>to</span> +60%</span> Fire Damage<br>
+            <span class="id-negative">-52 <span>to</span> -28%</span> Water Defence
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -2023,12 +2025,12 @@ hm有发挥空间，但是实际上不如非神话武器
             <span class="id-positive">+20</span> Agility
         </p>
         <p class="id">
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +21/3s</span> Mana Steal<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Reflection<br>
+            <span class="id-positive">+5 <span>to</span> +21/3s</span> Mana Steal<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Reflection<br>
             <span class="id-positive">+1 tier</span> Attack Speed<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Walk Speed<br>
-            <span class="id-negative">-65 <span class="bonus-to-negative">to</span> -35%</span> Exploding<br>
-            <span class="id-positive">+6 <span class="bonus-to">to</span> +26%</span> Air Damage<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Walk Speed<br>
+            <span class="id-negative">-65 <span>to</span> -35%</span> Exploding<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Air Damage<br>
             <span class="major-id-name">+Roving Assassin:</span> <span class="major-id-desc">Vanish will no longer block mana and health regeneration</span>
         </p>
         <p class="powder-rarity">
@@ -2070,11 +2072,11 @@ hm有发挥空间，但是实际上不如非神话武器
             <span class="id-positive">+15</span> Dexterity
         </p>
         <p class="id">
-            <span class="id-positive">+74 <span class="bonus-to">to</span> +319</span> Spell Damage<br>
-            <span class="id-negative">-39 <span class="bonus-to-negative">to</span> -21/5s</span> Mana Regen<br>
-            <span class="id-positive">+5 <span class="bonus-to">to</span> +20/3s</span> Mana Steal<br>
-            <span class="id-positive">-6 <span class="bonus-to">to</span> -26</span> Dash Cost<br>
-            <span class="id-positive">+12 <span class="bonus-to">to</span> +52%</span> Exploding
+            <span class="id-positive">+74 <span>to</span> +319</span> Spell Damage<br>
+            <span class="id-negative">-39 <span>to</span> -21/5s</span> Mana Regen<br>
+            <span class="id-positive">+5 <span>to</span> +20/3s</span> Mana Steal<br>
+            <span class="id-positive">-6 <span>to</span> -26</span> Dash Cost<br>
+            <span class="id-positive">+4 <span>to</span> +18%</span> Exploding
         </p>
         <p class="powder-rarity">
             [4] Powder slots<br>
@@ -2085,6 +2087,8 @@ hm有发挥空间，但是实际上不如非神话武器
 </div>
 
 很难想象一个dps武器可以有30k ehp
+
+扣mr的设计并不掩盖Obli的强大
 
 电水元素设计可以非常舒适地适配星露，玩shade有点说法，但是比较吃输出环境
 
@@ -2113,16 +2117,12 @@ hm有发挥空间，但是实际上不如非神话武器
             <span class="id-positive">+15</span> Strength
         </p>
         <p class="id">
-            <span class="id-positive">+77 <span class="bonus-to">to</span> +333%</span> Elemental Damage<br>
-            <span class="id-negative">+33 <span class="bonus-to-negative">to</span> +18%</span> Multihit Cost<br>
-            <span class="id-negative">+20 <span class="bonus-to-negative">to</span> +11%</span> Smoke Bomb Cost<br>
-            <span class="id-positive">+1 <span class="bonus-to">to</span> +4</span> Jump Height<br>
-            <span class="id-positive">+8 <span class="bonus-to">to</span> +33%</span> Earth Defence<br>
-            <span class="major-id-name">+Efflorescence:</span> <span class="major-id-desc"> Jasmine Bloom deals <span
-                class="neutral">15%</span> and <span class="earth"></span><span class="thunder"></span><span
-                class="water"></span><span class="fire"></span><span class="air">15%</span> at the cost of 6 blocks of vertical range. Swan Dive with a maximum size Jasmine Bloom deals <span
-                class="neutral">50%</span> and <span class="earth"></span><span class="thunder"></span><span
-                class="water"></span><span class="fire"></span><span class="air">50%</span>.</span>
+            <span class="id-positive">+77 <span>to</span> +333%</span> Elemental Damage<br>
+            <span class="id-negative">+20 <span>to</span> +11%</span> Multihit Cost<br>
+            <span class="id-negative">+13 <span>to</span> +7%</span> Smoke Bomb Cost<br>
+            <span class="id-positive">+1 <span>to</span> +4</span> Jump Height<br>
+            <span class="id-positive">+8 <span>to</span> +33%</span> Earth Defence<br>
+            <span class="major-id-name">+Efflorescence:</span> <span class="major-id-desc"> Jasmine Bloom deals <span class="neutral">25%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">25%</span> at the cost of 6 blocks of vertical range. Swan Dive with a maximum size Jasmine Bloom deals <span class="neutral">50%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">50%</span>.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -2168,7 +2168,7 @@ hm有发挥空间，但是实际上不如非神话武器
         </p>
         <p class="id">
             <span class="id-positive">+9 <span>to</span> +40%</span> Health Regen<br>
-            <span class="id-positive">+525 <span>to</span> +2750</span> Health<br>
+            <span class="id-positive">+525 <span>to</span> +2275</span> Health<br>
             <span class="id-positive">+11 <span>to</span> +46%</span> Thorns<br>
             <span class="id-negative">-19 <span>to</span> -10%</span> Walk Speed<br>
             <span class="id-positive">+9 <span>to</span> +39%</span> Earth Defence<br>
@@ -2210,8 +2210,8 @@ hm有发挥空间，但是实际上不如非神话武器
             Intelligence Min: 75
         </p>
         <p class="id">
-            <span class="id-positive">+94 <span>to</span> +407</span> Spell Damage<br>
-            <span class="id-negative">-12 <span>to</span> -6/5s</span> Mana Regen<br>
+            <span class="id-positive">+88 <span>to</span> +380</span> Spell Damage<br>
+            <span class="id-negative">-21 <span>to</span> -11/5s</span> Mana Regen<br>
             <span class="id-positive">+5 <span>to</span> +20/3s</span> Mana Steal<br>
             <span class="id-positive">+8 <span>to</span> +33%</span> Reflection<br>
             <span class="id-positive">+11 <span>to</span> +46%</span> Thunder Damage<br>
@@ -2251,14 +2251,14 @@ hm有发挥空间，但是实际上不如非神话武器
             Intelligence Min: 60
         </p>
         <p class="id">
-            <span class="id-positive">+14 <span>to</span> +59%</span> Main Attack Damage<br>
-            <span class="id-positive">+4800 <span>to</span> +20800/3s</span> Poison<br>
+            <span class="id-positive">+35 <span>to</span> +150%</span> Main Attack Damage<br>
+            <span class="id-positive">+21 <span>to</span> +90</span> Max Mana<br>
             <span class="id-positive">+6 <span>to</span> +26/3s</span> Mana Steal<br>
             <span class="id-negative">-1 tier</span>  Attack Speed<br>
             <span class="id-positive">+6 <span>to</span> +26%</span> Loot Bonus<br>
             <span class="id-positive">+5 <span>to</span> +20%</span> Stealing<br>
-            <span class="id-positive">+11 <span>to</span> +47%</span> Earth Damage<br>
-            <span class="id-positive">+11 <span>to</span> +47%</span> Water Damage
+            <span class="id-positive">+16 <span>to</span> +70%</span> Earth Damage<br>
+            <span class="id-positive">+16 <span>to</span> +70%</span> Water Damage
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -2560,7 +2560,7 @@ hm鞋，但是不如blind thrust，下一位
         </p>
         <p class="id">
             <span class="id-negative">-58 <span>to</span> -31%</span> Main Attack Damage<br>
-            <span class="id-negative">-45 <span>to</span> -24%</span> Spell Damage<br>
+            <span class="id-negative">-32 <span>to</span> -17%</span> Spell Damage<br>
             <span class="id-positive">+150 <span>to</span> +650</span> Health Regen<br>
             <span class="id-positive">+9 <span>to</span> +39/5s</span> Mana Regen<br>
             <span class="id-negative">-18 <span>to</span> -10%</span> Walk Speed
