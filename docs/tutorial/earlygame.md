@@ -4,6 +4,10 @@ title: 游戏初期(lv5~40)
 
 这部分面向的是已经开始了Wynn的玩家，战斗等级为5~40
 
+## lv8：地牢Decrepit Sewers
+
+lv8会解锁第一座地牢DS，关于地牢可以参考[这篇文章](/basic/dungeon)
+
 ## lv10: Wynn的中心Detlas
 
 Detlas是Wynn大陆上最重要的城镇，是Wynn的经济与交通中心。Detlas的预期等级是10级
@@ -12,7 +16,11 @@ Detlas是Wynn大陆上最重要的城镇，是Wynn的经济与交通中心。Det
 
 Detlas有一个Trade Market npc，右键即可浏览玩家市场。你可以在这里买卖装备和材料
 
-攒一点钱之后可以买下一个Emerald Pouch Tier VII，可以储存最多一组液体绿宝石
+攒一点钱之后可以买下一个Emerald Pouch Tier VII，可以储存最多1stx
+
+Wynncraft的通货是绿宝石。绿宝石分为三个等级，即绿宝石(E)、绿宝石块(EB)、液体绿宝石(LE)，以及后期常用的组液体绿宝石(stx)
+
+其换算率为：1le=64eb=1024e, 1eb=64e，而stx就是字面意思的一组le
 
 ## lv30: 沙漠与戈壁
 

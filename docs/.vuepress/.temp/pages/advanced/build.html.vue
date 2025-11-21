@@ -79,6 +79,34 @@
 <p>关于hive装备 配装时务必时刻记住，hive同层的装备是无法同时装备的，否则会受到大量负面效果</p>
 <p>例如，Prowess与Contrast，Intensity这三件饰品只能同时装备一件在身上</p>
 </div>
+<h2 id="升级配装" tabindex="-1"><a class="header-anchor" href="#升级配装"><span>升级配装</span></a></h2>
+<p>在达到一定水平并积累一定绿宝石后，一开始的装备一般都需要升级</p>
+<p>forum上的<a href="https://forums.wynncraft.com/threads/the-ultimate-build-guide.320092/" target="_blank" rel="noopener noreferrer">这篇文章</a>包含了非常优质的配装设计，可以直接抄作业</p>
+<p>如果你想自己搞定的话，基本步骤如下</p>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>由于毕业配装往往价格不菲，因此请先在Wynnbuilder中设计好再进行采购</p>
+</div>
+<p>第一步考虑一双合适的神话鞋。一般而言就是Stardew或Crusade Sabatons。除此之外，部分特殊的武器也会用到其他神话鞋，可以参考神话一览中的介绍</p>
+<p>第二步，利用Wynnatlas检索你所需要的装备。你可以点击右上角进入高级搜索模式，并且根据你的武器调整表达式。</p>
+<p>比如，当你需要查找Fatal的头盔时，你可以在Filtered by中填</p>
+<p><code v-pre>type=&quot;helmet&quot;</code></p>
+<p>在Sorted by中填</p>
+<p><code v-pre>5.983*(spelldam%+thunderdam%+elementaldam%)+spellrawdam+thunderdamraw+elementaldamraw</code></p>
+<p>同时也需要考虑点数问题，有些装备虽然词条给的伤害不算特别多，但是提供了超高点数加成(如Bete Noire，Moontower等)</p>
+<p>第三步，由于装备强度往往是戒指&lt;手镯、项链&lt;除鞋以外的盔甲&lt;鞋，所以我们需要把最弱的戒指替换掉。戒指一般可以使用自制(crafted)戒指，配方可以找工会要/找群友要/扒已有配装的</p>
+<p>最后，如果点数不够，则对每件装备进行调整取舍，直到能够穿上</p>
+<h1 id="特殊配装" tabindex="-1"><a class="header-anchor" href="#特殊配装"><span>特殊配装</span></a></h1>
+<h2 id="近战流" tabindex="-1"><a class="header-anchor" href="#近战流"><span>近战流</span></a></h2>
+<p>近战流分两类：Tier Stack(简称ts)和Heavy Melee(简称hm)</p>
+<p>ts的思路是选择攻速为Super Slow的武器，并且叠堆攻速词条直到Super Fast，以获得高额近战伤害</p>
+<p>hm的思路是利用攻速保底，选择Super Slow的武器，并且装备降低攻速、提供超高近战伤害的装备，通过地粉技能打出超高伤害。</p>
+<p>一般而言，近战流只有在tcc有发挥空间，因为tcc的buff有相当强力的近战伤害增益</p>
+<h2 id="fallen" tabindex="-1"><a class="header-anchor" href="#fallen"><span>Fallen</span></a></h2>
+<p>腐化战士依靠血量释放技能，因此对蓝量回转没有特别需求。腐化战士分为全烧和半烧，全烧即完全使用血量输出，半烧则有少量的蓝量回转</p>
+<p>对于全烧的fallen，可以使用一些极大降低蓝量回转但是提供高额伤害的装备(如Caesura)</p>
+<p>曾经有一个扣除大量mr但是提供42spell%的腐化专用自制戒指，但是如今被削入土只剩28spell%</p>
+<p>但是，即使是全烧fallen也需要一定的蓝量和减cost，以减少每个技能的消耗，延长续航</p>
 </div></template>
 
 

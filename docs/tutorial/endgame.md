@@ -10,4 +10,4 @@ lv100+实际上已经没什么要说的内容了zzz
 
 ## 收集Tome与Aspect
 
-到了满级，Tome和Aspect会对你的面板有极大的影响，
+到了满级，Tome和Aspect会对你的面板有极大的影响，这时需要进行lr和raid来生产tome、收集asp

@@ -6,7 +6,7 @@ export const fullSidebar: SidebarOptions = [
         collapsible: true,
         link: "/tutorial/",
         children: [
-            "/tutorial/quest",
+            "/tutorial/quest_to_do",
             "/tutorial/startgame",
             "/tutorial/earlygame",
             "/tutorial/midgame",
