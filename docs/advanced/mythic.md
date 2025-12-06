@@ -18,9 +18,9 @@ styles:
 
 这里部分神话会给出常用的下位取代，用于买不起神话的新人使用
 
-# 武器
+## 武器
 
-## 弓手
+### 弓手
 
 :::tabs#archer
 
@@ -111,9 +111,9 @@ styles:
 
 下位：Zero(吗？
 
-作为彩虹神话，自由的面板相当均衡，提供mr、ws，base不低的同时也有着优秀的回转和坦度
+作为彩虹神话，自由的面板相当均衡，提供mr、ws，base高的同时也有着优秀的回转和坦度
 
-bolt加强后一举成为弓手家的三把手
+可惜现版本非自制彩虹组件水平实在太低，不用自制的情况下伤害甚至不如某些传说武器
 
 @tab Grandmother
 
@@ -175,9 +175,9 @@ trapper活着的时候gma生活在laby和dz的阴影之下，trapper死后gma更
             <span class="item-attribute">Super Fast Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="neutral">Neutral Damage: </span>35-436</span><br>
-            <span><span class="thunder">Thunder </span>Damage: 235-235</span><br>
-            <span><span class="gray avg-dps">Average DPS: </span>1026</span>
+            <span><span class="neutral">Neutral Damage: </span>23-24</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 199-199</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>957</span>
         </p>
         <p class="requirements">
             Class Req: Archer/Hunter<br>
@@ -191,7 +191,7 @@ trapper活着的时候gma生活在laby和dz的阴影之下，trapper死后gma更
         </p>
         <p class="id">
             <span class="id-positive">+274 <span>to</span> +1186/3s</span> Life Steal<br>
-            <span class="id-positive">+9 <span>to</span> +39/3s</span> Mana Steal<br>
+            <span class="id-positive">+6 <span>to</span> +26/3s</span> Mana Steal<br>
             <span class="id-negative">-715 <span>to</span> -385%</span> Fire Damage<br>
             <span class="id-negative">-715 <span>to</span> -385%</span> Water Damage<br>
             <span class="id-positive">+1 tier</span> Attack Speed<br>
@@ -217,6 +217,8 @@ bolt的拯救者，服务器tps的撕裂者，fps的破坏者，老头和巨像�
 比其他弓的dps高一倍的神
 
 会玩的能在raid横着走，不会玩每个房间都死一次
+
+对然后他就被连削两次，如今mana steal已经不能回转了，光荣入土
 
 > 115+37dex
 
@@ -260,6 +262,8 @@ bolt的拯救者，服务器tps的撕裂者，fps的破坏者，老头和巨像�
 </div>
 
 别名：春天，弹簧
+
+下位：Torrential Tide
 
 > 神不需要dex点数来证明自己的含金量
 
@@ -363,7 +367,9 @@ bolt的二把手
 
 > 但是为什么用弓手lr
 
-除此之外没啥别的印象了，多少有点可惜的面板
+除此之外没啥别的印象了
+
+>要是把strati的base给spring就好了
 
 @tab Epoch
 
@@ -457,11 +463,11 @@ tcc轮椅，但是为什么这么贵
 
 曾经黑神话一等奖，曾经价值一页的打桩王，弓手武器一削再削的罪魁祸首，最终他的倒下把trapper砸死了
 
-不是完全不能玩，但是真玩过的已经去玩bolt了
+不是完全不能玩，但是真玩过的已经去玩bolt和fallen了
 
 :::
 
-## 法师
+### 法师
 
 :::tabs
 
@@ -653,7 +659,7 @@ tcc轮椅，但是为什么这么贵
 
 好像有点东西？
 
-非常便宜的价格，可以用来lr攒钱换拉面
+跑得快，伤害高，价格还便宜，新手lr推荐武器
 
 @tab Lament
 
@@ -797,8 +803,6 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
 
 曾经unid价值10stx的神，奥法的天花板，然后奥法死了
 
-现在的扭曲小姐已经打不了团本dps了，已经变成lr的星怒了
-
 @tab Quetzalcoatl
 
 <div class="item-window">
@@ -886,7 +890,7 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
 
 :::
 
-## 战士
+### 战士
 
 :::tabs
 
@@ -937,7 +941,7 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
 
 目前base已经快赶上hero了，在notg可以欺负虫子，别的地方听天由命
 
-玩fallen为什么不玩电棍呢？玩paladin为什么不玩噶点呢？总之就是很尴尬的一把武器
+玩fallen不如电棍，玩paladin不如噶点，练级没伤害又没xp。总之就是很尴尬的一把武器
 
 前段时间有人搓出来了个titan头apoc hm，但是没见人玩过
 
@@ -992,7 +996,7 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
 
 coll的unid甚至只有30le，词条也是全红都能用
 
-穿个morph就能lr，助你拿下偶像小姐
+最便宜的神话之一，非常适合新手战士lr
 
 @tab Alkatraz
 
@@ -1121,7 +1125,7 @@ coll的unid甚至只有30le，词条也是全红都能用
     </div>
 </div>
 
-下位(副手)：Charging Flame
+下位(用作副手时)：Charging Flame
 
 super idol的笑容...
 
@@ -1177,9 +1181,11 @@ super idol的笑容...
 
 别名：噶点
 
+下位：Convergence
+
 我的天哪噶点大人
 
-纯肉，毫无破绽的肉，力大砖飞的肉
+纯肉，毫无破绽的肉，力大砖飞的肉。随便组个配装ehp都能达到100k
 
 牺牲一部分dps换取数倍的ehp，还能给玩fallen和血萨的队友加金血，无敌
 
@@ -1283,7 +1289,7 @@ fallen被削，hero的base被削，风组件面板被削，42spell%被削
 
 别名：conv
 
-查无此人
+战士的二号坦克，同样能达到惊人的100k ehp。如果队伍只需要拉仇恨和金血，不需要扛伤，可以作为噶点下位
 
 @tab Bloodbath
 
@@ -1337,7 +1343,7 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
 
 :::
 
-## 萨满
+### 萨满
 
 :::tabs
 
@@ -1433,7 +1439,7 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
 
 面板不低，扣除了少量的回转但是高额减cost，同时还有个一定的伤害加成，各方面都很均衡
 
-所以他各方面都不是很好
+但是他是彩虹
 
 @tab Toxoplasmosis
 
@@ -1471,7 +1477,13 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
     </div>
 </div>
 
+别名：toxo
+
 > 9
+
+毒伤曾今受地点数加伤，但是现在改为真伤，不受任何词条作用。曾今多把武器可以叠加多层毒伤，而现在这个bug也被修了
+
+但是不可否认toxo非常适合刷素材
 
 @tab Sunstar
 
@@ -1513,9 +1525,7 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
 
 日星的设计也很明显，就是为了ts而生的
 
-高额的lifesteal有希望用tome对冲掉knucklebones的-ls，但是挂这么多挂件为什么不玩血萨呢
-
-> 永利玩家对melee的执着罢了
+>永利玩家对melee的执着
 
 @tab Hadal
 
@@ -1592,7 +1602,7 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
 
 正如他的名字，绝对的实力
 
-永利头号奶妈，随着血萨的加强直接起飞。即使有个神人reso压在头上也掩盖不了abso的力大砖飞
+永利头号奶妈，随着血萨的加强直接起飞
 
 血萨二把手
 
@@ -1637,7 +1647,7 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
 
 跳高冠军
 
-气神话的扛把子，能玩血萨能玩召唤师，但是现有oly血萨的配装得改一改，因为ct改了ec的蓝耗
+气神话的扛把子，能玩召唤师能玩血萨
 
 @tab Immolation
 
@@ -1684,7 +1694,7 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
 
 notg之外就是查无此人
 
-> 伪装成abso的杂鱼
+> 伪装成abso
 
 @tab Resonance
 
@@ -1696,10 +1706,10 @@ notg之外就是查无此人
             <span class="item-attribute">Normal Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="neutral-damage">Neutral Damage: </span>30-40</span><br>
-            <span><span class="earth">Earth </span>Damage: 190-200</span><br>
-            <span><span class="water">Water </span>Damage: 170-220</span><br>
-            <span><span class="gray avg-dps">Average DPS: </span>876</span>
+            <span><span class="neutral-damage">Neutral Damage: </span>20-30</span><br>
+            <span><span class="earth">Earth </span>Damage: 140-150</span><br>
+            <span><span class="water">Water </span>Damage: 120-170</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>649</span>
         </p>
         <p class="requirements">
             Class Req: Shaman/Skyseer<br>
@@ -1717,7 +1727,7 @@ notg之外就是查无此人
             <span class="id-positive">-6 <span>to</span> -25%</span> Uproot Cost<br>
             <span class="id-negative">-36 <span>to</span> -20%</span> Sprint<br>
             <span class="id-negative">-56 <span>to</span> -31%</span> Air Defence<br>
-            <span class="major-id-name">+Lifestream:</span> <span class="major-id-desc"> Blood Sorrow deals <span class="neutral">400%</span> and grants 4 times the overhealth, but shortens its duration by 75%.</span>
+            <span class="major-id-name">+Lifestream:</span> <span class="major-id-desc"> Blood Sorrow deals <span class="neutral">450%</span> and grants 4 times the overhealth, but shortens its duration by 75%.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1731,17 +1741,15 @@ notg之外就是查无此人
 
 我的天哪共振大人
 
-力大砖飞的major，金液狂飙
+笑尿了，先把倍率削了100%，然后把base一刀砍断，同时把倍率增加50%，跟我说是加强了，ct你要不看看你他妈在干什么
 
-beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌
+现在的base他妈的比aftershock还低，beam dps吃饱了不超过800k。如果说加入了极其珍贵的黑神话，但是黑神话表现还不如普通神话，那加他干什么？？？
 
-major倍率已经遭到一次削弱，但是不影响共振小姐继续射金
-
-但是好贵
+>Bloodbath: bro懂我的神话
 
 :::
 
-## 刺客
+### 刺客
 
 :::tabs
 
@@ -1783,11 +1791,13 @@ major倍率已经遭到一次削弱，但是不影响共振小姐继续射金
     </div>
 </div>
 
-> 可以假装自己是hero
+>假装自己是hero
 
 移速很高，很肉，玩trick tank有说法
 
 但是玩坦克为什么不玩噶点？
+
+>还能为什么，看看噶点那价格吧
 
 @tab Nullification
 
@@ -1835,7 +1845,7 @@ major倍率已经遭到一次削弱，但是不影响共振小姐继续射金
     </div>
 </div>
 
-下一位
+没玩过，不做评价
 
 @tab Grimtrap
 
@@ -1877,7 +1887,7 @@ major倍率已经遭到一次削弱，但是不影响共振小姐继续射金
 
 别名：绿拳
 
-伤害还可以，相比于某位牺牲了ehp换输出的武器，绿拳还是很棒的
+伤害不错，但是没啥别的印象了
 
 @tab Cataclysm
 
@@ -1920,6 +1930,8 @@ major倍率已经遭到一次削弱，但是不影响共振小姐继续射金
 
 牺牲ehp换来的极致dps，只要不死就是胜利
 
+>dz的难兄难弟啊
+
 @tab Nirvana
 
 <div class="item-window">
@@ -1960,7 +1972,7 @@ major倍率已经遭到一次削弱，但是不影响共振小姐继续射金
 
 回蓝，爽！不耗蓝，更爽！
 
-然而刺客现版本已经不需要高mr了
+然而刺客左中线已经不需要mr了，备战acrobat，**未来可期**
 
 @tab Inferno
 
@@ -2000,7 +2012,7 @@ major倍率已经遭到一次削弱，但是不影响共振小姐继续射金
     </div>
 </div>
 
-hm有发挥空间，但是实际上不如非神话武器
+没见过人玩的武器
 
 @tab Weathered
 
@@ -2092,7 +2104,7 @@ hm有发挥空间，但是实际上不如非神话武器
 
 电水元素设计可以非常舒适地适配星露，玩shade有点说法，但是比较吃输出环境
 
-> 拉个噶点解决一切输出环境问题
+>拉个噶点解决一切输出环境问题
 
 @tab Hanafubuki
 
@@ -2122,7 +2134,7 @@ hm有发挥空间，但是实际上不如非神话武器
             <span class="id-negative">+13 <span>to</span> +7%</span> Smoke Bomb Cost<br>
             <span class="id-positive">+1 <span>to</span> +4</span> Jump Height<br>
             <span class="id-positive">+8 <span>to</span> +33%</span> Earth Defence<br>
-            <span class="major-id-name">+Efflorescence:</span> <span class="major-id-desc"> Jasmine Bloom deals <span class="neutral">25%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">25%</span> at the cost of 6 blocks of vertical range. Swan Dive with a maximum size Jasmine Bloom deals <span class="neutral">50%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">50%</span>.</span>
+            <span class="major-id-name">+Efflorescence:</span> <span class="major-id-desc"> Jasmine Bloom deals <span class="neutral">25%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">25%</span> at the cost of 6 blocks of vertical range. Swan Dive deals <span class="neutral">16%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">16%</span>.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -2136,11 +2148,11 @@ hm有发挥空间，但是实际上不如非神话武器
 
 帅气的名字，大胆的设计，但是小丑
 
-可惜了这把刀
+随着周围的meta又艾了一顿草，hana有了要兴起的趋势
 
 :::
 
-# 装备
+## 装备
 
 :::tabs
 
@@ -2225,7 +2237,7 @@ hm有发挥空间，但是实际上不如非神话武器
     </div>
 </div>
 
-我超，星露谷！
+我超，星露~~谷~~！
 
 你游伤害鞋的天花板，400raw的力大砖飞
 

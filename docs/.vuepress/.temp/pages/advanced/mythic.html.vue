@@ -7,8 +7,8 @@
 <p>神话装备没有低等级神话，包含十双双元素的神话鞋和一件神话胸甲</p>
 <p>十把双元素神话武器和十双双元素神话鞋分别对应每一种元素组合</p>
 <p>这里部分神话会给出常用的下位取代，用于买不起神话的新人使用</p>
-<h1 id="武器" tabindex="-1"><a class="header-anchor" href="#武器"><span>武器</span></a></h1>
-<h2 id="弓手" tabindex="-1"><a class="header-anchor" href="#弓手"><span>弓手</span></a></h2>
+<h2 id="武器" tabindex="-1"><a class="header-anchor" href="#武器"><span>武器</span></a></h2>
+<h3 id="弓手" tabindex="-1"><a class="header-anchor" href="#弓手"><span>弓手</span></a></h3>
 <Tabs :data='[{"id":"Az"},{"id":"Freedom"},{"id":"Grandmother"},{"id":"Divzer"},{"id":"Spring"},{"id":"Ignis"},{"id":"Stratiformis"},{"id":"Epoch"},{"id":"Labyrinth"}]' tab-id="archer">
 <template #title0="{ value, isActive }">Az</template>
 <template #title1="{ value, isActive }">Freedom</template>
@@ -100,8 +100,8 @@
     </div>
 </div>
 <p>下位：Zero(吗？</p>
-<p>作为彩虹神话，自由的面板相当均衡，提供mr、ws，base不低的同时也有着优秀的回转和坦度</p>
-<p>bolt加强后一举成为弓手家的三把手</p>
+<p>作为彩虹神话，自由的面板相当均衡，提供mr、ws，base高的同时也有着优秀的回转和坦度</p>
+<p>可惜现版本非自制彩虹组件水平实在太低，不用自制的情况下伤害甚至不如某些传说武器</p>
 </template>
 <template #tab2="{ value, isActive }">
 <div class="item-window">
@@ -158,9 +158,9 @@
             <span class="item-attribute">Super Fast Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="neutral">Neutral Damage: </span>35-436</span><br>
-            <span><span class="thunder">Thunder </span>Damage: 235-235</span><br>
-            <span><span class="gray avg-dps">Average DPS: </span>1026</span>
+            <span><span class="neutral">Neutral Damage: </span>23-24</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 199-199</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>957</span>
         </p>
         <p class="requirements">
             Class Req: Archer/Hunter<br>
@@ -174,7 +174,7 @@
         </p>
         <p class="id">
             <span class="id-positive">+274 <span>to</span> +1186/3s</span> Life Steal<br>
-            <span class="id-positive">+9 <span>to</span> +39/3s</span> Mana Steal<br>
+            <span class="id-positive">+6 <span>to</span> +26/3s</span> Mana Steal<br>
             <span class="id-negative">-715 <span>to</span> -385%</span> Fire Damage<br>
             <span class="id-negative">-715 <span>to</span> -385%</span> Water Damage<br>
             <span class="id-positive">+1 tier</span> Attack Speed<br>
@@ -194,6 +194,7 @@
 <p>完全放弃一切def和agi点数，牺牲ehp换取超高额的输出</p>
 <p>比其他弓的dps高一倍的神</p>
 <p>会玩的能在raid横着走，不会玩每个房间都死一次</p>
+<p>对然后他就被连削两次，如今mana steal已经不能回转了，光荣入土</p>
 <blockquote>
 <p>115+37dex</p>
 </blockquote>
@@ -236,6 +237,7 @@
     </div>
 </div>
 <p>别名：春天，弹簧</p>
+<p>下位：Torrential Tide</p>
 <blockquote>
 <p>神不需要dex点数来证明自己的含金量</p>
 </blockquote>
@@ -329,7 +331,10 @@
 <blockquote>
 <p>但是为什么用弓手lr</p>
 </blockquote>
-<p>除此之外没啥别的印象了，多少有点可惜的面板</p>
+<p>除此之外没啥别的印象了</p>
+<blockquote>
+<p>要是把strati的base给spring就好了</p>
+</blockquote>
 </template>
 <template #tab7="{ value, isActive }">
 <div class="item-window">
@@ -413,10 +418,10 @@
 <p>别名：laby，蜡笔</p>
 <p>下位：gma</p>
 <p>曾经黑神话一等奖，曾经价值一页的打桩王，弓手武器一削再削的罪魁祸首，最终他的倒下把trapper砸死了</p>
-<p>不是完全不能玩，但是真玩过的已经去玩bolt了</p>
+<p>不是完全不能玩，但是真玩过的已经去玩bolt和fallen了</p>
 </template>
 </Tabs>
-<h2 id="法师" tabindex="-1"><a class="header-anchor" href="#法师"><span>法师</span></a></h2>
+<h3 id="法师" tabindex="-1"><a class="header-anchor" href="#法师"><span>法师</span></a></h3>
 <Tabs :data='[{"id":"Pure"},{"id":"Singularity"},{"id":"Gaia"},{"id":"Fatal"},{"id":"Lament"},{"id":"Monster"},{"id":"Warp"},{"id":"Quetzalcoatl"},{"id":"Trance"}]'>
 <template #title0="{ value, isActive }">Pure</template>
 <template #title1="{ value, isActive }">Singularity</template>
@@ -603,7 +608,7 @@
 </blockquote>
 <p>雷电法王，极高的面板但是上下浮动太大</p>
 <p>好像有点东西？</p>
-<p>非常便宜的价格，可以用来lr攒钱换拉面</p>
+<p>跑得快，伤害高，价格还便宜，新手lr推荐武器</p>
 </template>
 <template #tab4="{ value, isActive }">
 <div class="item-window">
@@ -730,7 +735,6 @@
 <p>下位：Morrowwind</p>
 <p>扭曲的面板很明显，牺牲续航换取天花板级别的综合强度</p>
 <p>曾经unid价值10stx的神，奥法的天花板，然后奥法死了</p>
-<p>现在的扭曲小姐已经打不了团本dps了，已经变成lr的星怒了</p>
 </template>
 <template #tab7="{ value, isActive }">
 <div class="item-window">
@@ -811,7 +815,7 @@
 <p>目前最大作用是当风奴</p>
 </template>
 </Tabs>
-<h2 id="战士" tabindex="-1"><a class="header-anchor" href="#战士"><span>战士</span></a></h2>
+<h3 id="战士" tabindex="-1"><a class="header-anchor" href="#战士"><span>战士</span></a></h3>
 <Tabs :data='[{"id":"Apocalypse"},{"id":"Collapse"},{"id":"Alkatraz"},{"id":"Thrundacrack"},{"id":"Idol"},{"id":"Guardian"},{"id":"Hero"},{"id":"Convergence"},{"id":"Bloodbath"}]'>
 <template #title0="{ value, isActive }">Apocalypse</template>
 <template #title1="{ value, isActive }">Collapse</template>
@@ -864,7 +868,7 @@
 <p>别名：apoc，天启</p>
 <p>虽然是火属性武器，但是扣回血</p>
 <p>目前base已经快赶上hero了，在notg可以欺负虫子，别的地方听天由命</p>
-<p>玩fallen为什么不玩电棍呢？玩paladin为什么不玩噶点呢？总之就是很尴尬的一把武器</p>
+<p>玩fallen不如电棍，玩paladin不如噶点，练级没伤害又没xp。总之就是很尴尬的一把武器</p>
 <p>前段时间有人搓出来了个titan头apoc hm，但是没见人玩过</p>
 </template>
 <template #tab1="{ value, isActive }">
@@ -913,7 +917,7 @@
 <p>别名：崩塌，coll</p>
 <p>爆！</p>
 <p>coll的unid甚至只有30le，词条也是全红都能用</p>
-<p>穿个morph就能lr，助你拿下偶像小姐</p>
+<p>最便宜的神话之一，非常适合新手战士lr</p>
 </template>
 <template #tab2="{ value, isActive }">
 <div class="item-window">
@@ -1032,7 +1036,7 @@
         </p>
     </div>
 </div>
-<p>下位(副手)：Charging Flame</p>
+<p>下位(用作副手时)：Charging Flame</p>
 <p>super idol的笑容...</p>
 <p>飞天戟把，二技能减cost可以让你直接满天飞</p>
 <p>曾经idol有一个独特的玩法叫bashsurf，即结合bash和charge对敌人造成高额伤害</p>
@@ -1081,8 +1085,9 @@
     </div>
 </div>
 <p>别名：噶点</p>
+<p>下位：Convergence</p>
 <p>我的天哪噶点大人</p>
-<p>纯肉，毫无破绽的肉，力大砖飞的肉</p>
+<p>纯肉，毫无破绽的肉，力大砖飞的肉。随便组个配装ehp都能达到100k</p>
 <p>牺牲一部分dps换取数倍的ehp，还能给玩fallen和血萨的队友加金血，无敌</p>
 <blockquote>
 <p>笔者曾经带个titan头拿噶点直接进raid，其他全裸ehp都比队里的bolt高好几倍</p>
@@ -1174,7 +1179,7 @@
     </div>
 </div>
 <p>别名：conv</p>
-<p>查无此人</p>
+<p>战士的二号坦克，同样能达到惊人的100k ehp。如果队伍只需要拉仇恨和金血，不需要扛伤，可以作为噶点下位</p>
 </template>
 <template #tab8="{ value, isActive }">
 <div class="item-window">
@@ -1221,7 +1226,7 @@
 <p>有一堆挂件提供输出环境的话确实强，但都带这么多挂件了</p>
 </template>
 </Tabs>
-<h2 id="萨满" tabindex="-1"><a class="header-anchor" href="#萨满"><span>萨满</span></a></h2>
+<h3 id="萨满" tabindex="-1"><a class="header-anchor" href="#萨满"><span>萨满</span></a></h3>
 <Tabs :data='[{"id":"Aftershock"},{"id":"Fantasia"},{"id":"Toxoplasmosis"},{"id":"Sunstar"},{"id":"Hadal"},{"id":"Absolution"},{"id":"Olympic"},{"id":"Immolation"},{"id":"Resonance"}]'>
 <template #title0="{ value, isActive }">Aftershock</template>
 <template #title1="{ value, isActive }">Fantasia</template>
@@ -1317,7 +1322,7 @@
     </div>
 </div>
 <p>面板不低，扣除了少量的回转但是高额减cost，同时还有个一定的伤害加成，各方面都很均衡</p>
-<p>所以他各方面都不是很好</p>
+<p>但是他是彩虹</p>
 </template>
 <template #tab2="{ value, isActive }">
 <div class="item-window">
@@ -1353,9 +1358,12 @@
         </p>
     </div>
 </div>
+<p>别名：toxo</p>
 <blockquote>
 <p>9</p>
 </blockquote>
+<p>毒伤曾今受地点数加伤，但是现在改为真伤，不受任何词条作用。曾今多把武器可以叠加多层毒伤，而现在这个bug也被修了</p>
+<p>但是不可否认toxo非常适合刷素材</p>
 </template>
 <template #tab3="{ value, isActive }">
 <div class="item-window">
@@ -1393,9 +1401,8 @@
 </div>
 <p>别名：日星</p>
 <p>日星的设计也很明显，就是为了ts而生的</p>
-<p>高额的lifesteal有希望用tome对冲掉knucklebones的-ls，但是挂这么多挂件为什么不玩血萨呢</p>
 <blockquote>
-<p>永利玩家对melee的执着罢了</p>
+<p>永利玩家对melee的执着</p>
 </blockquote>
 </template>
 <template #tab4="{ value, isActive }">
@@ -1466,7 +1473,7 @@
 </div>
 <p>别名：abso</p>
 <p>正如他的名字，绝对的实力</p>
-<p>永利头号奶妈，随着血萨的加强直接起飞。即使有个神人reso压在头上也掩盖不了abso的力大砖飞</p>
+<p>永利头号奶妈，随着血萨的加强直接起飞</p>
 <p>血萨二把手</p>
 </template>
 <template #tab6="{ value, isActive }">
@@ -1506,7 +1513,7 @@
 </div>
 <p>别名：oly</p>
 <p>跳高冠军</p>
-<p>气神话的扛把子，能玩血萨能玩召唤师，但是现有oly血萨的配装得改一改，因为ct改了ec的蓝耗</p>
+<p>气神话的扛把子，能玩召唤师能玩血萨</p>
 </template>
 <template #tab7="{ value, isActive }">
 <div class="item-window">
@@ -1549,7 +1556,7 @@
 <p>绑死召唤师，直接保送满def满agi，在notg伤害不俗</p>
 <p>notg之外就是查无此人</p>
 <blockquote>
-<p>伪装成abso的杂鱼</p>
+<p>伪装成abso</p>
 </blockquote>
 </template>
 <template #tab8="{ value, isActive }">
@@ -1561,10 +1568,10 @@
             <span class="item-attribute">Normal Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="neutral-damage">Neutral Damage: </span>30-40</span><br>
-            <span><span class="earth">Earth </span>Damage: 190-200</span><br>
-            <span><span class="water">Water </span>Damage: 170-220</span><br>
-            <span><span class="gray avg-dps">Average DPS: </span>876</span>
+            <span><span class="neutral-damage">Neutral Damage: </span>20-30</span><br>
+            <span><span class="earth">Earth </span>Damage: 140-150</span><br>
+            <span><span class="water">Water </span>Damage: 120-170</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>649</span>
         </p>
         <p class="requirements">
             Class Req: Shaman/Skyseer<br>
@@ -1582,7 +1589,7 @@
             <span class="id-positive">-6 <span>to</span> -25%</span> Uproot Cost<br>
             <span class="id-negative">-36 <span>to</span> -20%</span> Sprint<br>
             <span class="id-negative">-56 <span>to</span> -31%</span> Air Defence<br>
-            <span class="major-id-name">+Lifestream:</span> <span class="major-id-desc"> Blood Sorrow deals <span class="neutral">400%</span> and grants 4 times the overhealth, but shortens its duration by 75%.</span>
+            <span class="major-id-name">+Lifestream:</span> <span class="major-id-desc"> Blood Sorrow deals <span class="neutral">450%</span> and grants 4 times the overhealth, but shortens its duration by 75%.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1593,13 +1600,14 @@
 </div>
 <p>别名：reso</p>
 <p>我的天哪共振大人</p>
-<p>力大砖飞的major，金液狂飙</p>
-<p>beam dps能达到1m以上，notg的摧毁者，anni队伍免死金牌</p>
-<p>major倍率已经遭到一次削弱，但是不影响共振小姐继续射金</p>
-<p>但是好贵</p>
+<p>笑尿了，先把倍率削了100%，然后把base一刀砍断，同时把倍率增加50%，跟我说是加强了，ct你要不看看你他妈在干什么</p>
+<p>现在的base他妈的比aftershock还低，beam dps吃饱了不超过800k。如果说加入了极其珍贵的黑神话，但是黑神话表现还不如普通神话，那加他干什么？？？</p>
+<blockquote>
+<p>Bloodbath: bro懂我的神话</p>
+</blockquote>
 </template>
 </Tabs>
-<h2 id="刺客" tabindex="-1"><a class="header-anchor" href="#刺客"><span>刺客</span></a></h2>
+<h3 id="刺客" tabindex="-1"><a class="header-anchor" href="#刺客"><span>刺客</span></a></h3>
 <Tabs :data='[{"id":"Archangel"},{"id":"Nullification"},{"id":"Grimtrap"},{"id":"Cataclysm"},{"id":"Nirvana"},{"id":"Inferno"},{"id":"Weathered"},{"id":"Oblivion"},{"id":"Hanafubuki"}]'>
 <template #title0="{ value, isActive }">Archangel</template>
 <template #title1="{ value, isActive }">Nullification</template>
@@ -1647,10 +1655,13 @@
     </div>
 </div>
 <blockquote>
-<p>可以假装自己是hero</p>
+<p>假装自己是hero</p>
 </blockquote>
 <p>移速很高，很肉，玩trick tank有说法</p>
 <p>但是玩坦克为什么不玩噶点？</p>
+<blockquote>
+<p>还能为什么，看看噶点那价格吧</p>
+</blockquote>
 </template>
 <template #tab1="{ value, isActive }">
 <div class="item-window">
@@ -1696,7 +1707,7 @@
         </p>
     </div>
 </div>
-<p>下一位</p>
+<p>没玩过，不做评价</p>
 </template>
 <template #tab2="{ value, isActive }">
 <div class="item-window">
@@ -1735,7 +1746,7 @@
     </div>
 </div>
 <p>别名：绿拳</p>
-<p>伤害还可以，相比于某位牺牲了ehp换输出的武器，绿拳还是很棒的</p>
+<p>伤害不错，但是没啥别的印象了</p>
 </template>
 <template #tab3="{ value, isActive }">
 <div class="item-window">
@@ -1774,6 +1785,9 @@
 </div>
 <p>刀如其名，灾难</p>
 <p>牺牲ehp换来的极致dps，只要不死就是胜利</p>
+<blockquote>
+<p>dz的难兄难弟啊</p>
+</blockquote>
 </template>
 <template #tab4="{ value, isActive }">
 <div class="item-window">
@@ -1812,7 +1826,7 @@
     </div>
 </div>
 <p>回蓝，爽！不耗蓝，更爽！</p>
-<p>然而刺客现版本已经不需要高mr了</p>
+<p>然而刺客左中线已经不需要mr了，备战acrobat，<strong>未来可期</strong></p>
 </template>
 <template #tab5="{ value, isActive }">
 <div class="item-window">
@@ -1850,7 +1864,7 @@
         </p>
     </div>
 </div>
-<p>hm有发挥空间，但是实际上不如非神话武器</p>
+<p>没见过人玩的武器</p>
 </template>
 <template #tab6="{ value, isActive }">
 <div class="item-window">
@@ -1966,7 +1980,7 @@
             <span class="id-negative">+13 <span>to</span> +7%</span> Smoke Bomb Cost<br>
             <span class="id-positive">+1 <span>to</span> +4</span> Jump Height<br>
             <span class="id-positive">+8 <span>to</span> +33%</span> Earth Defence<br>
-            <span class="major-id-name">+Efflorescence:</span> <span class="major-id-desc"> Jasmine Bloom deals <span class="neutral">25%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">25%</span> at the cost of 6 blocks of vertical range. Swan Dive with a maximum size Jasmine Bloom deals <span class="neutral">50%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">50%</span>.</span>
+            <span class="major-id-name">+Efflorescence:</span> <span class="major-id-desc"> Jasmine Bloom deals <span class="neutral">25%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">25%</span> at the cost of 6 blocks of vertical range. Swan Dive deals <span class="neutral">16%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">16%</span>.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -1977,10 +1991,10 @@
 </div>
 <p>花吹雪</p>
 <p>帅气的名字，大胆的设计，但是小丑</p>
-<p>可惜了这把刀</p>
+<p>随着周围的meta又艾了一顿草，hana有了要兴起的趋势</p>
 </template>
 </Tabs>
-<h1 id="装备" tabindex="-1"><a class="header-anchor" href="#装备"><span>装备</span></a></h1>
+<h2 id="装备" tabindex="-1"><a class="header-anchor" href="#装备"><span>装备</span></a></h2>
 <Tabs :data='[{"id":"Crusade Sabatons"},{"id":"Stardew"},{"id":"Galleon"},{"id":"Warchief"},{"id":"Boreal"},{"id":"Moontower"},{"id":"Dawnbreak"},{"id":"Slayer"},{"id":"Revenant"},{"id":"Resurgence"},{"id":"Discoverer"}]'>
 <template #title0="{ value, isActive }">Crusade Sabatons</template>
 <template #title1="{ value, isActive }">Stardew</template>
@@ -2068,7 +2082,7 @@
         </p>
     </div>
 </div>
-<p>我超，星露谷！</p>
+<p>我超，星露<s>谷</s>！</p>
 <p>你游伤害鞋的天花板，400raw的力大砖飞</p>
 <p>但凡沾点电水就能塞星露，扛起了dps配装半边天</p>
 </template>

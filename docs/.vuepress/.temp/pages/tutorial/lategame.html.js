@@ -1,3 +1,16 @@
 import comp from "E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/tutorial/lategame.html.vue"
 const data = JSON.parse("{\"path\":\"/tutorial/lategame.html\",\"title\":\"游戏后期(lv80~100)\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"游戏后期(lv80~100)\",\"description\":\"ok，我们先梳理一下截至目前你应该已经完成了的任务： 解锁Wynn省和Gavel省的大部分主要城镇 确定你要选择的职业分支 完成Wynn Evacuation系列任务的A, B, C, D 完成Realm of Light系列任务1~5 确认上述内容已经搞定后，我们进入下一个部分 Silverbull公司 在Cinfras的东南面有一栋楼，地图上没有标...\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"游戏后期(lv80~100)\\\",\\\"image\\\":[\\\"https://wynncn.netlify.app/assets/img/tutorial/silverbull_company.jpg\\\",\\\"https://wynncn.netlify.app/assets/img/tutorial/canyon_lr.jpg\\\"],\\\"dateModified\\\":\\\"2025-11-12T09:28:21.000Z\\\",\\\"author\\\":[]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://wynncn.netlify.app/tutorial/lategame.html\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"游戏后期(lv80~100)\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"ok，我们先梳理一下截至目前你应该已经完成了的任务： 解锁Wynn省和Gavel省的大部分主要城镇 确定你要选择的职业分支 完成Wynn Evacuation系列任务的A, B, C, D 完成Realm of Light系列任务1~5 确认上述内容已经搞定后，我们进入下一个部分 Silverbull公司 在Cinfras的东南面有一栋楼，地图上没有标...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://wynncn.netlify.app/assets/img/tutorial/silverbull_company.jpg\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2025-11-12T09:28:21.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2025-11-12T09:28:21.000Z\"}]]},\"git\":{\"updatedTime\":1762939701000,\"contributors\":[{\"name\":\"35578\",\"username\":\"35578\",\"email\":\"3557809672@qq.com\",\"commits\":1,\"url\":\"https://github.com/35578\"}],\"changelog\":[{\"hash\":\"a75cea7e3484d389c37050627aea24a819afdbfe\",\"time\":1762939701000,\"email\":\"3557809672@qq.com\",\"author\":\"35578\",\"message\":\"INITIAL COMMIT\"}]},\"filePathRelative\":\"tutorial/lategame.md\",\"autoDesc\":true}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

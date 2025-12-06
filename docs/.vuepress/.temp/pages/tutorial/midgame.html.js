@@ -1,3 +1,16 @@
 import comp from "E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/tutorial/midgame.html.vue"
 const data = JSON.parse("{\"path\":\"/tutorial/midgame.html\",\"title\":\"游戏中期(lv40~80)\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"游戏中期(lv40~80)\",\"description\":\"前往Gavel大陆 40级左右时，就可以考虑前往Wynncraft的第三个区域了！ 截至本文，Wynncraft中共有四个主要区域：Wynn省，Gavel省，海洋，寂静苍穹。 对，Fruma省又跳票了 其中Gavel省是剧情最丰富的部分，在这里你会了解到腐化战争的起源、光明与黑暗、光之化身与暗之野兽，在这里你会参与到精灵族与黑暗的斗争、矮人族与岩浆人族...\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"游戏中期(lv40~80)\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2025-11-12T09:28:21.000Z\\\",\\\"author\\\":[]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://wynncn.netlify.app/tutorial/midgame.html\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"游戏中期(lv40~80)\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"前往Gavel大陆 40级左右时，就可以考虑前往Wynncraft的第三个区域了！ 截至本文，Wynncraft中共有四个主要区域：Wynn省，Gavel省，海洋，寂静苍穹。 对，Fruma省又跳票了 其中Gavel省是剧情最丰富的部分，在这里你会了解到腐化战争的起源、光明与黑暗、光之化身与暗之野兽，在这里你会参与到精灵族与黑暗的斗争、矮人族与岩浆人族...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2025-11-12T09:28:21.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2025-11-12T09:28:21.000Z\"}]]},\"git\":{\"updatedTime\":1762939701000,\"contributors\":[{\"name\":\"35578\",\"username\":\"35578\",\"email\":\"3557809672@qq.com\",\"commits\":1,\"url\":\"https://github.com/35578\"}],\"changelog\":[{\"hash\":\"a75cea7e3484d389c37050627aea24a819afdbfe\",\"time\":1762939701000,\"email\":\"3557809672@qq.com\",\"author\":\"35578\",\"message\":\"INITIAL COMMIT\"}]},\"filePathRelative\":\"tutorial/midgame.md\",\"autoDesc\":true}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

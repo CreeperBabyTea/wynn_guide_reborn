@@ -1,3 +1,16 @@
 import comp from "E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/advanced/mythic.html.vue"
 const data = JSON.parse("{\"path\":\"/advanced/mythic.html\",\"title\":\"神话物品一览\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"神话物品一览\",\"styles\":[\"/styles/item.css\"],\"description\":\"神话物品往往有高于非神话物品的强度，一般而言每名玩家到游戏后期都要有一把趁手的神话武器。 为什么是“往往”呢 目前版本神话物品分为武器和装备 神话武器包括每个职业9把神话，其中一把低等级神话(lv65~89)，五把单元素神话、一把彩虹，双元素的一把高等级神话和一把黑神话 神话装备没有低等级神话，包含十双双元素的神话鞋和一件神话胸甲 十把双元素神话武器和...\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"神话物品一览\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2025-11-16T15:56:22.000Z\\\",\\\"author\\\":[]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://wynncn.netlify.app/advanced/mythic.html\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"神话物品一览\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"神话物品往往有高于非神话物品的强度，一般而言每名玩家到游戏后期都要有一把趁手的神话武器。 为什么是“往往”呢 目前版本神话物品分为武器和装备 神话武器包括每个职业9把神话，其中一把低等级神话(lv65~89)，五把单元素神话、一把彩虹，双元素的一把高等级神话和一把黑神话 神话装备没有低等级神话，包含十双双元素的神话鞋和一件神话胸甲 十把双元素神话武器和...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2025-11-16T15:56:22.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2025-11-16T15:56:22.000Z\"}]]},\"git\":{\"updatedTime\":1763308582000,\"contributors\":[{\"name\":\"35578\",\"username\":\"35578\",\"email\":\"3557809672@qq.com\",\"commits\":1,\"url\":\"https://github.com/35578\"},{\"name\":\"茶叶BabyTea\",\"username\":\"\",\"email\":\"3557809672@qq.com\",\"commits\":3},{\"name\":\"CreeperBabyTea\",\"username\":\"CreeperBabyTea\",\"email\":\"77906593+CreeperBabyTea@users.noreply.github.com\",\"commits\":1,\"url\":\"https://github.com/CreeperBabyTea\"}],\"changelog\":[{\"hash\":\"a32e7cdb854e3d19cfd39e07e2417e69abca337c\",\"time\":1763308582000,\"email\":\"3557809672@qq.com\",\"author\":\"茶叶BabyTea\",\"message\":\"修正神话物品词条，补充一部分配装教程 依然待补充内容\"},{\"hash\":\"3d77b066ae84558ba3ab8aebff4a425c8344a2cf\",\"time\":1763225401000,\"email\":\"77906593+CreeperBabyTea@users.noreply.github.com\",\"author\":\"CreeperBabyTea\",\"message\":\"minor bug fix\"},{\"hash\":\"db9b61dd84fbc0328cddee45eb4a4eb51baf90c4\",\"time\":1763224899000,\"email\":\"3557809672@qq.com\",\"author\":\"茶叶BabyTea\",\"message\":\"添加配装、神话物品 均待补充内容\"},{\"hash\":\"88e3035e936e9576fdc54e91305d38c6643cafa2\",\"time\":1762941267000,\"email\":\"3557809672@qq.com\",\"author\":\"茶叶BabyTea\",\"message\":\"INITIAL COMMIT\"},{\"hash\":\"a75cea7e3484d389c37050627aea24a819afdbfe\",\"time\":1762939701000,\"email\":\"3557809672@qq.com\",\"author\":\"35578\",\"message\":\"INITIAL COMMIT\"}]},\"filePathRelative\":\"advanced/mythic.md\",\"autoDesc\":true}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

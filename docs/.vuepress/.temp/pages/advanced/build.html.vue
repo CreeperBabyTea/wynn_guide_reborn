@@ -1,10 +1,10 @@
-<template><div><h1 id="什么是配装" tabindex="-1"><a class="header-anchor" href="#什么是配装"><span>什么是配装？</span></a></h1>
+<template><div><h2 id="什么是配装" tabindex="-1"><a class="header-anchor" href="#什么是配装"><span>什么是配装？</span></a></h2>
 <p>配装就是一整套装备，同时往往也带一套技能树</p>
 <p>一套合格的配装往往能提供输出能力或辅助能力，并且具有一定生存能力</p>
 <p>配装的第一要求肯定是能穿上配装、能拿动武器，也就是技能点要足够</p>
 <p>一个100级的存档拥有200个可分配技能点，同时任意属性你只能分配最多100点，因此高于100就需要装备来提供点数</p>
 <p>除此之外，技能点的增益上限是150点，超出150的点数是无效的<s>对吧dz</s></p>
-<h2 id="元素" tabindex="-1"><a class="header-anchor" href="#元素"><span>元素</span></a></h2>
+<h3 id="元素" tabindex="-1"><a class="header-anchor" href="#元素"><span>元素</span></a></h3>
 <p>配装往往强调两种或两种以上的元素装备组合。最常见的配装往往采用三元素组合或彩虹。每种元素具有其特点：</p>
 <ul>
 <li>地E(str)：较高的血量，较高的伤害，强化近战</li>
@@ -25,14 +25,14 @@
 <li>TWA：性能比较均衡，但是缺少地点数使伤害受限</li>
 <li>EWA：和TWA一样比较均衡，伤害稳定</li>
 </ul>
-<h2 id="ehp" tabindex="-1"><a class="header-anchor" href="#ehp"><span>ehp</span></a></h2>
+<h3 id="ehp" tabindex="-1"><a class="header-anchor" href="#ehp"><span>ehp</span></a></h3>
 <p>ehp即effective health，火属性和气属性都会影响ehp。然而，由于气属性的闪避随机性很大，我们更喜欢参考ehp(no agi)，即忽略闪避的ehp</p>
 <blockquote>
 <p>使用agi享受随机被秒杀</p>
 </blockquote>
 <p>ehp随玩法的变化差别也很大，有些玻璃大炮可能只有7k甚至5k ehp，而作为坦克的圣骑士则可以轻松达到100k以上</p>
-<h1 id="战斗" tabindex="-1"><a class="header-anchor" href="#战斗"><span>战斗</span></a></h1>
-<h2 id="输出" tabindex="-1"><a class="header-anchor" href="#输出"><span>输出</span></a></h2>
+<h2 id="战斗" tabindex="-1"><a class="header-anchor" href="#战斗"><span>战斗</span></a></h2>
+<h3 id="输出" tabindex="-1"><a class="header-anchor" href="#输出"><span>输出</span></a></h3>
 <p>大部分配装都需要考虑输出的问题。输出词条主要包含三种：技能点、百分比伤害、原始伤害</p>
 <p>技能点方面，最重要的是str和dex。除此之外各元素对应的技能点也有一定伤害加成，如int点数对水伤有加成</p>
 <p>然后两种词条伤害，粗略的理解，百分比伤害是乘在在武器基础伤害(base dps)之上，而原始伤害则是直接相加，且原始伤害不受百分比伤害影响</p>
@@ -46,7 +46,7 @@
 <p>弓手&gt;萨满、刺客&gt;战士&gt;法师</p>
 <p>因此百分比对弓手、萨满、刺客有更好效果，原始伤害对法师有更好效果，而战士则需要权衡</p>
 </div>
-<h2 id="回转" tabindex="-1"><a class="header-anchor" href="#回转"><span>回转</span></a></h2>
+<h3 id="回转" tabindex="-1"><a class="header-anchor" href="#回转"><span>回转</span></a></h3>
 <p>回转一般包括两种，蓝量回转和血量回转。血量回转是指依靠烧血的fallen和依靠血池的acolyte，在战斗中维持自己的血量的能力。而蓝量回转则是普通的烧蓝的职业</p>
 <p>对于消耗蓝量的职业，需要通过mr或ms或技能树技能维持蓝量：</p>
 <ul>
@@ -55,7 +55,7 @@
 <li>双回转：上述两种都有</li>
 </ul>
 <p>部分职业有特别的回蓝技能，如bolt的Recycling和奥法的奥术转换。不同职业的蓝耗也往往不同，如血萨的蓝耗就远远低于bolt的</p>
-<h1 id="基本配装思路" tabindex="-1"><a class="header-anchor" href="#基本配装思路"><span>基本配装思路</span></a></h1>
+<h2 id="基本配装思路" tabindex="-1"><a class="header-anchor" href="#基本配装思路"><span>基本配装思路</span></a></h2>
 <ol>
 <li>选择一把武器，选择一个职业分支。有些职业分支有特别适配的武器，比如萨满的oly适配召唤师，法师的lament适配lb。具体而言可以参考神话介绍，或问问群友</li>
 <li>买不起神话的话，有一些神话有下位取代，一样可以参考神话介绍中的内容。除此之外也可以在wynnatlas查询，网址见<RouteLink to="/tutorial/">新手教程</RouteLink></li>
@@ -79,7 +79,7 @@
 <p>关于hive装备 配装时务必时刻记住，hive同层的装备是无法同时装备的，否则会受到大量负面效果</p>
 <p>例如，Prowess与Contrast，Intensity这三件饰品只能同时装备一件在身上</p>
 </div>
-<h2 id="升级配装" tabindex="-1"><a class="header-anchor" href="#升级配装"><span>升级配装</span></a></h2>
+<h3 id="升级配装" tabindex="-1"><a class="header-anchor" href="#升级配装"><span>升级配装</span></a></h3>
 <p>在达到一定水平并积累一定绿宝石后，一开始的装备一般都需要升级</p>
 <p>forum上的<a href="https://forums.wynncraft.com/threads/the-ultimate-build-guide.320092/" target="_blank" rel="noopener noreferrer">这篇文章</a>包含了非常优质的配装设计，可以直接抄作业</p>
 <p>如果你想自己搞定的话，基本步骤如下</p>
@@ -96,17 +96,17 @@
 <p>同时也需要考虑点数问题，有些装备虽然词条给的伤害不算特别多，但是提供了超高点数加成(如Bete Noire，Moontower等)</p>
 <p>第三步，由于装备强度往往是戒指&lt;手镯、项链&lt;除鞋以外的盔甲&lt;鞋，所以我们需要把最弱的戒指替换掉。戒指一般可以使用自制(crafted)戒指，配方可以找工会要/找群友要/扒已有配装的</p>
 <p>最后，如果点数不够，则对每件装备进行调整取舍，直到能够穿上</p>
-<h1 id="特殊配装" tabindex="-1"><a class="header-anchor" href="#特殊配装"><span>特殊配装</span></a></h1>
-<h2 id="近战流" tabindex="-1"><a class="header-anchor" href="#近战流"><span>近战流</span></a></h2>
-<p>近战流分两类：Tier Stack(简称ts)和Heavy Melee(简称hm)</p>
+<h2 id="特殊配装" tabindex="-1"><a class="header-anchor" href="#特殊配装"><span>特殊配装</span></a></h2>
+<h3 id="近战流" tabindex="-1"><a class="header-anchor" href="#近战流"><span>近战流</span></a></h3>
+<p>近战流分两类：Tier Stack(简称ts)和Heavy Melee(简称hm)(还有已经死掉的panic zealot cancel stack)</p>
 <p>ts的思路是选择攻速为Super Slow的武器，并且叠堆攻速词条直到Super Fast，以获得高额近战伤害</p>
 <p>hm的思路是利用攻速保底，选择Super Slow的武器，并且装备降低攻速、提供超高近战伤害的装备，通过地粉技能打出超高伤害。</p>
 <p>一般而言，近战流只有在tcc有发挥空间，因为tcc的buff有相当强力的近战伤害增益</p>
-<h2 id="fallen" tabindex="-1"><a class="header-anchor" href="#fallen"><span>Fallen</span></a></h2>
+<h3 id="fallen" tabindex="-1"><a class="header-anchor" href="#fallen"><span>Fallen</span></a></h3>
 <p>腐化战士依靠血量释放技能，因此对蓝量回转没有特别需求。腐化战士分为全烧和半烧，全烧即完全使用血量输出，半烧则有少量的蓝量回转</p>
 <p>对于全烧的fallen，可以使用一些极大降低蓝量回转但是提供高额伤害的装备(如Caesura)</p>
 <p>曾经有一个扣除大量mr但是提供42spell%的腐化专用自制戒指，但是如今被削入土只剩28spell%</p>
-<p>但是，即使是全烧fallen也需要一定的蓝量和减cost，以减少每个技能的消耗，延长续航</p>
+<p>但是，即使是全烧fallen也需要一定的int和减cost，以减少每个技能的消耗，延长续航</p>
 </div></template>
 
 

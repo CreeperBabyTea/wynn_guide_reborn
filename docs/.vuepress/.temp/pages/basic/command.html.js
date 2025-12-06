@@ -1,3 +1,16 @@
 import comp from "E:/Development/projects/html/wynn_guide_reborn/docs/.vuepress/.temp/pages/basic/command.html.vue"
 const data = JSON.parse("{\"path\":\"/basic/command.html\",\"title\":\"常用指令\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"常用指令\",\"description\":\"这一篇主要是讲述游戏内经常会用到的、实用的命令 /class 切换至选角界面 但是其功能不止这么简单，还有一系列的附加功能： 使用后会清除身上所有正面、负面效果 可用此命令来重置机关、重刷新怪物 总之就是遇到BUG的时候先试试/class，说不定有很大作用 /kill 自杀 自杀后会自动复活在临近的等级足够的城镇 需要注意的是自杀和被怪物杀死相同 /p...\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"常用指令\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2025-11-13T15:07:49.000Z\\\",\\\"author\\\":[]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://wynncn.netlify.app/basic/command.html\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"常用指令\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"这一篇主要是讲述游戏内经常会用到的、实用的命令 /class 切换至选角界面 但是其功能不止这么简单，还有一系列的附加功能： 使用后会清除身上所有正面、负面效果 可用此命令来重置机关、重刷新怪物 总之就是遇到BUG的时候先试试/class，说不定有很大作用 /kill 自杀 自杀后会自动复活在临近的等级足够的城镇 需要注意的是自杀和被怪物杀死相同 /p...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2025-11-13T15:07:49.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2025-11-13T15:07:49.000Z\"}]]},\"git\":{\"updatedTime\":1763046469000,\"contributors\":[{\"name\":\"35578\",\"username\":\"35578\",\"email\":\"3557809672@qq.com\",\"commits\":1,\"url\":\"https://github.com/35578\"},{\"name\":\"茶叶BabyTea\",\"username\":\"\",\"email\":\"3557809672@qq.com\",\"commits\":2}],\"changelog\":[{\"hash\":\"abceb5c27f505a636017726caacc963d090c2bbf\",\"time\":1763046469000,\"email\":\"3557809672@qq.com\",\"author\":\"茶叶BabyTea\",\"message\":\"添加职业、指令部分 职业部分仍缺少萨满和刺客的介绍\"},{\"hash\":\"88e3035e936e9576fdc54e91305d38c6643cafa2\",\"time\":1762941267000,\"email\":\"3557809672@qq.com\",\"author\":\"茶叶BabyTea\",\"message\":\"INITIAL COMMIT\"},{\"hash\":\"a75cea7e3484d389c37050627aea24a819afdbfe\",\"time\":1762939701000,\"email\":\"3557809672@qq.com\",\"author\":\"35578\",\"message\":\"INITIAL COMMIT\"}]},\"filePathRelative\":\"basic/command.md\",\"autoDesc\":true}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
