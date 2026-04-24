@@ -26,6 +26,8 @@ styles:
 
 @tab Az
 
+<span
+
 <div class="item-window">
     <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.thunder3.webp" alt="Az" class="item-icon">
     <div class="item-details">
@@ -369,7 +371,7 @@ bolt的二把手
 
 除此之外没啥别的印象了
 
->要是把strati的base给spring就好了
+> 要是把strati的base给spring就好了
 
 @tab Epoch
 
@@ -464,6 +466,91 @@ tcc轮椅，但是为什么这么贵
 曾经黑神话一等奖，曾经价值一页的打桩王，弓手武器一削再削的罪魁祸首，最终他的倒下把trapper砸死了
 
 不是完全不能玩，但是真玩过的已经去玩bolt和fallen了
+
+@tab Eschaton
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.fire3.webp" alt="Eschaton" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Eschaton</span><br>
+            <span class="item-attribute">Super Fast Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span><span class="thunder">Thunder </span>Damage: 20-120</span><br>
+            <span><span class="fire">Fire </span>Damage: 50-70</span><br>
+            <span><span class="air">Air </span>Damage: 30-90</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>817</span>
+        </p>
+        <p class="requirements">
+            Class Req: Archer/Hunter<br>
+            Combat Lv. Min: 119<br>
+            Agility Min: 60<br>
+            Defence Min: 60<br>
+            Dexterity Min: 60
+        </p>
+        <p class="id">
+            <span class="id-positive">+1</span> Attack Speed<br>
+            <span class="id-positive">+9 <span>to</span> +40%</span> Exploding<br>
+            <span class="id-negative">-2860 <span>to</span> -1540</span> Health<br>
+            <span class="id-negative">-39 <span>to</span> -21%</span> Water Defence<br>
+            <span class="id-positive">-7 <span>to</span> -32</span> 4th Spell Cost<br>
+            <span class="id-positive">+60 <span>to</span> +260</span> Raw Fire Damage<br>
+            <span class="major-id-name">+Death Sentence:</span> <span class="major-id-desc">Courage will immediately combust Guardian Angels, dealing 4000% and enkindling Buckshot's arrows with 20% Main Attack damage.</span>
+        </p>
+        <p class="powder-rarity">
+            [2] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+@tab Revolution
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.air3.webp" alt="Revolution" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Revolution</span><br>
+            <span class="item-attribute">Very Slow Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span>Neutral Damage: 190-260</span><br>
+            <span><span class="earth">Earth </span>Damage: 210-250</span><br>
+            <span><span class="water">Water </span>Damage: 180-280</span><br>
+            <span><span class="air">Air </span>Damage: 160-300</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>759</span>
+        </p>
+        <p class="requirements">
+            Class Req: Archer/Hunter<br>
+            Combat Lv. Min: 111<br>
+            Agility Min: 65<br>
+            Strength Min: 60<br>
+            Intelligence Min: 55
+        </p>
+        <p class="id">
+            <span class="id-positive">+25</span> Intelligence<br>
+        </p>
+        <p class="id">
+            <span class="id-positive">+39 <span>to</span> +170%</span> Knockback<br>
+            <span class="id-positive">+4 <span>to</span> +18/5s</span> Mana Steal<br>
+            <span class="id-negative">-3150 <span>to</span> -1696</span> Health<br>
+            <span class="id-negative">-47 <span>to</span> -25%</span> Main Attack Range<br>
+            <span class="id-positive">-3 <span>to</span> -12</span> Raw 2nd Spell Cost<br>
+            <span class="major-id-name">+Regicide:</span> <span class="major-id-desc">Your projectiles and abilities deal more damage the further away you are from your target, by 2% per block, up to a cap of 120%.</span>
+        </p>
+        <p class="powder-rarity">
+            [3] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+别名：revo
+
+算是当了一段时间的新神，然而随着riftwalker的兴起它又下去了
+
+很帅的major
 
 :::
 
@@ -754,6 +841,10 @@ tcc轮椅，但是为什么这么贵
 
 gw单刷唯一指定武器，可以算拉面下位（吗？
 
+随着2.2版本rw的兴起，monster正式成为第二位作为dps的火神话(上一位似乎也不算什么dps而是辅助吧)
+
+要肉有肉，要奶有奶，要输出有肉有奶，传奇单刷王
+
 @tab Warp
 
 <div class="item-window">
@@ -802,6 +893,8 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
 扭曲的面板很明显，牺牲续航换取天花板级别的综合强度
 
 曾经unid价值10stx的神，奥法的天花板，然后奥法死了
+
+如今奥法再次复活，还有冉冉升起的rw，扭曲大人可谓命不该绝啊
 
 @tab Quetzalcoatl
 
@@ -887,6 +980,98 @@ gw单刷唯一指定武器，可以算拉面下位（吗？
 叠60层风，叠完怪都死光了，完全没有发挥空间
 
 目前最大作用是当风奴
+
+@tab Halcyon
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/wand.multi3.webp" alt="Halcyon" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Halcyon</span><br>
+            <span class="item-attribute">Fast Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span><span class="air">Air </span>Damage: 50-80</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 40-90</span><br>
+            <span><span class="water">Water </span>Damage: 60-70</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>492</span><br>
+            <span class="gray">(Also has 1-1 Fire & Earth damage)</span>
+        </p>
+        <p class="requirements">
+            Class Req: Mage/Dark Wizard<br>
+            Combat Lv. Min: 118<br>
+            Agility Min: 50<br>
+            Dexterity Min: 50<br>
+            Intelligence Min: 60
+        </p>
+        <p class="id">
+            <span class="id-negative">-50</span> Strength<br>
+        </p>
+        <p class="id">
+            <span class="id-negative">-4290 <span>to</span> -2310</span> Health<br>
+            <span class="id-positive">+15 <span>to</span> +65%</span> Reflection<br>
+            <span class="id-positive">+9 <span>to</span> +39%</span> Elemental Defence<br>
+            <span class="id-positive">-1 <span>to</span> -6</span> Raw 4th Spell Cost<br>
+            <span class="id-positive">+8 <span>to</span> +36%</span> Healing Efficiency<br>
+            <span class="id-positive">+90 <span>to</span> +390</span> Raw Elemental Spell Damage<br>
+            <span class="major-id-name">+Blinding Lights:</span> <span class="major-id-desc">All Ophanim orbs become closer-range Lightweaver orbs. Using Main Attack causes all orbs to spin faster. Crystallize stacks are reduced by -2 per hit.</span>
+        </p>
+        <p class="powder-rarity">
+            [3] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+@tab Riptide
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/wand.water3.webp" alt="Riptide" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Riptide</span><br>
+            <span class="item-attribute">Super Slow Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span>Neutral Damage: 150-190</span><br>
+            <span><span class="earth">Earth </span>Damage: 270-350</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 115-235</span><br>
+            <span><span class="water">Water </span>Damage: 245-375</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>492</span>
+        </p>
+        <p class="requirements">
+            Class Req: Mage/Dark Wizard<br>
+            Combat Lv. Min: 110<br>
+            Strength Min: 60<br>
+            Dexterity Min: 40<br>
+            Intelligence Min: 70
+        </p>
+        <p class="id">
+            <span class="id-positive">+20</span> Intelligence<br>
+            <span class="id-negative">-25</span> Defence<br>
+        </p>
+        <p class="id">
+            <span class="id-negative">-195 <span>to</span> -105%</span> Knockback<br>
+            <span class="id-positive">+4 <span>to</span> +16/5s</span> Mana Steal<br>
+            <span class="id-positive">+24 <span>to</span> +104</span> Max Mana<br>
+            <span class="id-positive">-1 <span>to</span> -5</span> Raw 3rd Spell Cost<br>
+            <span class="id-positive">+75 <span>to</span> +325</span> Raw Water Spell Damage<br>
+            <span class="major-id-name">+Wavebreak:</span> <span class="major-id-desc">Meteor's Earth damage is replaced by Water damage. Psychokinesis can bounce up to 5 times, dealing 100% and 50% area damage, as well as 200% and 100% direct hit damage, increasing by 10% after each bounce. Mana Bank gains 3 less mana from Meteor.</span>
+        </p>
+        <p class="powder-rarity">
+            [3] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+别名：rt，rip
+
+很吵，但是伤害确实很高
+
+官方唯一指定etw位的玻璃大炮，虽然实战一般玩彩虹
+
+虽然是个奥法major，但是甚至能搭配一个抽象的树玩rw
 
 :::
 
@@ -1149,9 +1334,9 @@ super idol的笑容...
             <span class="item-attribute">Normal Attack Speed</span>
         </p>
         <p class="damage">
-            <span><span class="neutral">Neutral Damage: </span>40-90</span><br>
+            <span>Neutral Damage: 40-90</span><br>
             <span><span class="fire">Fire </span>Damage: 145-205</span><br>
-            <span><span class="gray avg-dps">Average DPS: </span>494</span>
+            <span><span class="gray avg-dps">Average DPS: </span>492</span>
         </p>
         <p class="requirements">
             Class Req: Warrior/Knight<br>
@@ -1159,22 +1344,21 @@ super idol的笑容...
             Defence Min: 110
         </p>
         <p class="id">
-            <span class="id-positive">+20</span> Defence
+            <span class="id-positive">+20</span> Defence<br>
         </p>
         <p class="id">
-            <span class="id-positive">+195 <span>to</span> +845</span> Health Regen<br>
-            <span class="id-positive">+1800 <span>to</span> +7800</span> Health<br>
-            <span class="id-positive">+3 <span>to</span> +12/5s</span> Mana Regen<br>
             <span class="id-positive">+8 <span>to</span> +33%</span> Thorns<br>
+            <span class="id-positive">+3 <span>to</span> +12/5s</span> Mana Regen<br>
+            <span class="id-positive">+1800 <span>to</span> +7800</span> Health<br>
+            <span class="id-positive">+6 <span>to</span> +26%</span> Fire Defence<br>
             <span class="id-positive">+6 <span>to</span> +26%</span> Earth Defence<br>
             <span class="id-positive">+6 <span>to</span> +26%</span> Water Defence<br>
-            <span class="id-positive">+6 <span>to</span> +26%</span> Fire Defence<br>
-            <span class="major-id-name">+Guardian:</span> <span class="major-id-desc">35% of damage taken by nearby allies is redirected to you.</span>
+            <span class="id-positive">+270 <span>to</span> +1170</span> Health Regen<br>
+            <span class="major-id-name">+Guardian:</span> <span class="major-id-desc">Devout Union gains +20% damage redirection and +4 radius.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
             <span class="rarity">Mythic Item</span><br>
-            <span>A vow of protection hangs over this spear, now inhabited by the spirit of a legendary heroine. Even simply a glimpse of the burning blade will instill a feeling of protection and security, and that feeling will hold true if one is brave enough to wield it.</span>
         </p>
     </div>
 </div>
@@ -1190,6 +1374,8 @@ super idol的笑容...
 牺牲一部分dps换取数倍的ehp，还能给玩fallen和血萨的队友加金血，无敌
 
 > 笔者曾经带个titan头拿噶点直接进raid，其他全裸ehp都比队里的bolt高好几倍
+
+2.2版本再次迎来超级加强，masterwork的噶点更是成为twp唯一坦克，谁是版本之子这下没争议了吧
 
 @tab Hero
 
@@ -1340,6 +1526,99 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
 看上去很美，实际用起来一堆问题
 
 有一堆挂件提供输出环境的话确实强，但都带这么多挂件了
+
+一大堆高等级神话只有一个没有major，是谁呢好难猜啊
+
+@tab Restitution
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.thunder3.webp" alt="Restitution" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Restitution</span><br>
+            <span class="item-attribute">Normal Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span><span class="thunder">Thunder </span>Damage: 0-180</span><br>
+            <span><span class="water">Water </span>Damage: 65-115</span><br>
+            <span><span class="fire">Fire </span>Damage: 80-100</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>554</span>
+        </p>
+        <p class="requirements">
+            Class Req: Warrior/Knight<br>
+            Combat Lv. Min: 120<br>
+            Defence Min: 60<br>
+            Dexterity Min: 45<br>
+            Intelligence Min: 60
+        </p>
+        <p class="id">
+            <span class="id-positive">+20</span> Dexterity<br>
+        </p>
+        <p class="id">
+            <span class="id-positive">+4 <span>to</span> +18/5s</span> Mana Regen<br>
+            <span class="id-positive">+635 <span>to</span> +2750</span> Health<br>
+            <span class="id-negative">-26 <span>to</span> -14%</span> Walk Speed<br>
+            <span class="id-negative">-39 <span>to</span> -21%</span> Earth Defence<br>
+            <span class="id-positive">-1 <span>to</span> -4</span> 3rd Spell Cost<br>
+            <span class="id-positive">+17 <span>to</span> +75%</span> Thunder Spell Damage<br>
+            <span class="major-id-name">+Old Spark:</span> <span class="major-id-desc">Whirlwind transforms into a travelling projectile, exploding on contact and knocking enemies into the air. Hold shift to rise with them.</span>
+        </p>
+        <p class="powder-rarity">
+            [3] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+泰..拉刃？
+
+@tab Ascendancy
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.fire3.webp" alt="Ascendancy" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Ascendancy</span><br>
+            <span class="item-attribute">Fast Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span>Neutral Damage: 30-30</span><br>
+            <span><span class="water">Water </span>Damage: 50-75</span><br>
+            <span><span class="fire">Fire </span>Damage: 50-75</span><br>
+            <span><span class="air">Air </span>Damage: 25-100</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>544</span>
+        </p>
+        <p class="requirements">
+            Class Req: Warrior/Knight<br>
+            Combat Lv. Min: 112<br>
+            Agility Min: 60<br>
+            Defence Min: 60<br>
+            Intelligence Min: 60
+        </p>
+        <p class="id">
+            <span class="id-negative">-100</span> Strength<br>
+            <span class="id-negative">-100</span> Dexterity<br>
+        </p>
+        <p class="id">
+            <span class="id-positive">+808 <span>to</span> +3500</span> Health<br>
+            <span class="id-positive">+15 <span>to</span> +65%</span> Reflection<br>
+            <span class="id-positive">+17 <span>to</span> +75%</span> Fire Damage<br>
+            <span class="id-positive">+1 <span>to</span> +4</span> Jump Height<br>
+            <span class="id-positive">+75 <span>to</span> +325</span> Raw Spell Damage<br>
+            <span class="major-id-name">+Divine Right:</span> <span class="major-id-desc">Sacred Surge's damage is increased by 1% (Maximum 200%) for every 200 max HP you have when it triggers.</span>
+        </p>
+        <p class="powder-rarity">
+            [3] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+设计给圣骑士的武器，但是major给了个加伤
+
+总之就是左右脑互搏，又要给加伤又要把et点数扣了个干净又要玩paladin，意义不明
+
+玩paladin为什么不去玩噶点呢.jpg
 
 :::
 
@@ -1525,7 +1804,7 @@ base最高的战士武器(braker除外)，绑死fallen的螗臂武器
 
 日星的设计也很明显，就是为了ts而生的
 
->永利玩家对melee的执着
+> 永利玩家对melee的执着
 
 @tab Hadal
 
@@ -1745,7 +2024,92 @@ notg之外就是查无此人
 
 现在的base他妈的比aftershock还低，beam dps吃饱了不超过800k。如果说加入了极其珍贵的黑神话，但是黑神话表现还不如普通神话，那加他干什么？？？
 
->Bloodbath: bro懂我的神话
+随着twp的到来和技能树新的一页，reso迎来了它第二春，成为twp唯一指定萨满
+
+> Bloodbath: bro懂我的神话
+
+@tab Fate
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.earth3.webp" alt="Fate" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Fate</span><br>
+            <span class="item-attribute">Very Slow Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span>Neutral Damage: 215-285</span><br>
+            <span><span class="earth">Earth </span>Damage: 235-365</span><br>
+            <span><span class="fire">Fire </span>Damage: 255-345</span><br>
+            <span><span class="air">Air </span>Damage: 205-395</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>954</span>
+        </p>
+        <p class="requirements">
+            Class Req: Shaman/Skyseer<br>
+            Combat Lv. Min: 108<br>
+            Agility Min: 50<br>
+            Defence Min: 50<br>
+            Strength Min: 60
+        </p>
+        <p class="id">
+            <span class="id-positive">+10</span> Agility<br>
+            <span class="id-positive">+10</span> Defence<br>
+            <span class="id-positive">+10</span> Strength<br>
+            <span class="id-positive">+8 <span>to</span> +36%</span> Walk Speed<br>
+            <span class="id-positive">+4 <span>to</span> +17%</span> Weaken Enemy<br>
+            <span class="id-negative">+47 <span>to</span> +25</span> 3rd Spell Cost<br>
+            <span class="id-positive">-3 <span>to</span> -13</span> 4th Spell Cost Raw<br>
+            <span class="id-positive">+300 <span>to</span> +1300</span> Raw Elemental Main Attack Damage<br>
+            <span class="major-id-name">+Starcrossed:</span> <span class="major-id-desc">Hitting an enemy with Haunting Memory makes it Linked. You can have up to two targets Linked at once. When one Linked enemy takes damage, the other Linked enemy takes that damage as well.</span>
+        </p>
+        <p class="powder-rarity">
+            [3] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+命 运
+
+@tab Transfiguration
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.air3.webp" alt="Transfiguration" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Transfiguration</span><br>
+            <span class="item-attribute">Super Fast Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span><span class="earth">Earth </span>Damage: 60-70</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 0-130</span><br>
+            <span><span class="air">Air </span>Damage: 30-100</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>838</span>
+        </p>
+        <p class="requirements">
+            Class Req: Shaman/Skyseer<br>
+            Combat Lv. Min: 117<br>
+            Agility Min: 55<br>
+            Strength Min: 70<br>
+            Dexterity Min: 70
+        </p>
+        <p class="id">
+            <span class="id-positive">+20</span> Agility<br>
+        </p>
+        <p class="id">
+            <span class="id-positive">+5</span> Attack Speed<br>
+            <span class="id-positive">+6 <span>to</span> +26/5s</span> Mana Steal<br>
+            <span class="id-negative">-39 <span>to</span> -21</span> Max Mana<br>
+            <span class="id-positive">+9 <span>to</span> +40%</span> Sprint Regen<br>
+            <span class="id-positive">+66 <span>to</span> +286</span> Raw Elemental Damage<br>
+            <span class="major-id-name">+Flain Remnants:</span> <span class="major-id-desc">Destroying a Puppet with Friendly Fire calls forth a Remnant. (Max 5) Each Remnant lasts for 20 seconds, fires an explosive tracking projectile every second that deals 95%, and increases your Main Attack damage by 15%.</span>
+        </p>
+        <p class="powder-rarity">
+            [3] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
 
 :::
 
@@ -1791,13 +2155,13 @@ notg之外就是查无此人
     </div>
 </div>
 
->假装自己是hero
+> 假装自己是hero
 
 移速很高，很肉，玩trick tank有说法
 
 但是玩坦克为什么不玩噶点？
 
->还能为什么，看看噶点那价格吧
+> 还能为什么，看看噶点那价格吧
 
 @tab Nullification
 
@@ -1930,7 +2294,7 @@ notg之外就是查无此人
 
 牺牲ehp换来的极致dps，只要不死就是胜利
 
->dz的难兄难弟啊
+> dz的难兄难弟啊
 
 @tab Nirvana
 
@@ -2104,7 +2468,7 @@ notg之外就是查无此人
 
 电水元素设计可以非常舒适地适配星露，玩shade有点说法，但是比较吃输出环境
 
->拉个噶点解决一切输出环境问题
+> 拉个噶点解决一切输出环境问题
 
 @tab Hanafubuki
 
@@ -2134,7 +2498,7 @@ notg之外就是查无此人
             <span class="id-negative">+13 <span>to</span> +7%</span> Smoke Bomb Cost<br>
             <span class="id-positive">+1 <span>to</span> +4</span> Jump Height<br>
             <span class="id-positive">+8 <span>to</span> +33%</span> Earth Defence<br>
-            <span class="major-id-name">+Efflorescence:</span> <span class="major-id-desc"> Jasmine Bloom deals <span class="neutral">25%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">25%</span> at the cost of 6 blocks of vertical range. Swan Dive deals <span class="neutral">16%</span> and <span class="earth"></span><span class="thunder"></span><span class="water"></span><span class="fire"></span><span class="air">16%</span>.</span>
+            <span class="major-id-name">+Efflorescence:</span> <span class="major-id-desc">Serpent's Garden now centers to where you land with Swan Dive. Damage of Swan Dive, Serpent's Garden and Jasmine Bloom are distributed across all elements.</span>
         </p>
         <p class="powder-rarity">
             [3] Powder slots<br>
@@ -2149,6 +2513,91 @@ notg之外就是查无此人
 帅气的名字，大胆的设计，但是小丑
 
 随着周围的meta又艾了一顿草，hana有了要兴起的趋势
+
+@tab Vengeance
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.thunder3.webp" alt="Vengeance" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Vengeance</span><br>
+            <span class="item-attribute">Super Slow Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span>Neutral Damage: 500-800</span><br>
+            <span><span class="earth">Earth </span>Damage: 250-350</span><br>
+            <span><span class="thunder">Thunder </span>Damage: 150-450</span><br>
+            <span><span class="fire">Fire </span>Damage: 200-400</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>790</span>
+        </p>
+        <p class="requirements">
+            Class Req: Assassin/Ninja<br>
+            Combat Lv. Min: 116<br>
+            Defence Min: 50<br>
+            Strength Min: 60<br>
+            Dexterity Min: 60
+        </p>
+        <p class="id">
+            <span class="id-positive">+8 <span>to</span> +36%</span> Damage<br>
+            <span class="id-negative">-19 <span>to</span> -10/5s</span> Mana Steal<br>
+            <span class="id-positive">+100 <span>to</span> +433%</span> Health Regen<br>
+            <span class="id-positive">-4 <span>to</span> -18</span> 3rd Spell Cost<br>
+            <span class="id-negative">-9100 <span>to</span> -4900</span> Health Regen<br>
+            <span class="major-id-name">+Manic Edge:</span> <span class="major-id-desc">While vanished, lose 5% of your max mana per second. Increase Surprise Strike's damage bonus by 5% per mana lost from this effect, up to 130%.</span>
+        </p>
+        <p class="powder-rarity">
+            [3] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+@tab Architect
+
+<div class="item-window">
+    <img src="https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.earth3.webp" alt="Architect" class="item-icon">
+    <div class="item-details">
+        <p class="item-header">
+            <span class="item-name">Architect</span><br>
+            <span class="item-attribute">Slow Attack Speed</span>
+        </p>
+        <p class="damage">
+            <span>Neutral Damage: 180-400</span><br>
+            <span><span class="earth">Earth </span>Damage: 45-55</span><br>
+            <span><span class="water">Water </span>Damage: 40-60</span><br>
+            <span><span class="fire">Fire </span>Damage: 35-65</span><br>
+            <span><span class="gray avg-dps">Average DPS: </span>660</span>
+        </p>
+        <p class="requirements">
+            Class Req: Assassin/Ninja<br>
+            Combat Lv. Min: 109<br>
+            Defence Min: 55<br>
+            Strength Min: 55<br>
+            Intelligence Min: 65
+        </p>
+        <p class="id">
+            <span class="id-positive">+15</span> Agility<br>
+            <span class="id-positive">+15</span> Defence<br>
+            <span class="id-positive">+15</span> Strength<br>
+            <span class="id-positive">+15</span> Dexterity<br>
+            <span class="id-positive">+15</span> Intelligence<br>
+        </p>
+        <p class="id">
+            <span class="id-negative">-975 <span>to</span> -525/5s</span> Life Steal<br>
+            <span class="id-positive">+3 <span>to</span> +13/5s</span> Mana Regen<br>
+            <span class="id-positive">+450 <span>to</span> +1950</span> Health<br>
+            <span class="id-positive">+3 <span>to</span> +13%</span> Slow Enemy<br>
+            <span class="id-positive">+4 <span>to</span> +16%</span> Healing Efficiency<br>
+            <span class="major-id-name">+Living Museum:</span> <span class="major-id-desc">Players within 10 blocks of Mirage, Shadow, or Another Self clones will get 20% resistance, and be healed 10%, 20%, or 50% max health when the respective clone is destroyed.</span>
+        </p>
+        <p class="powder-rarity">
+            [5] Powder slots<br>
+            <span class="rarity">Mythic Item</span><br>
+        </p>
+    </div>
+</div>
+
+看起来试图作为具有一定辅助能力的dps武器，但是目前无人问津。点数给的多到能当饭吃，总之未来可期(吗？
 
 :::
 
@@ -2624,6 +3073,10 @@ hm鞋，但是不如blind thrust，下一位
 :::
 
 <style scoped>
+    .item-family {
+        display: flex;
+    }
+
     .item-window {
         border: 2px solid #9400D3;
         background-color: #1a1a1a;

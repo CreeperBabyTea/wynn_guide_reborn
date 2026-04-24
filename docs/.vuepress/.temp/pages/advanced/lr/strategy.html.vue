@@ -63,6 +63,7 @@ Hustle用完然后转为红绿或红白策略</p>
 <template #tab0="{ value, isActive }">
 <p>这也是最无脑但是压力最大的策略。反复叠堆青紫会给你叠加非常高的诅咒，你必须依赖高强度增益和de-debuff来续航</p>
 <p>青紫策略在处理一些试炼时会压力很大，比如那些禁用boon和增强curse的，如果有机会避免，还是尽可能不要用青紫</p>
+<p>青紫策略下需要格外注意Radiance这个诅咒，很容易导致出现500m血小怪。但是配合Radiant Hunter这个试炼可以叠到远高于其他策略的逆天pulls</p>
 <p>但是作为最基础的策略还是得会打的对吧</p>
 </template>
 <template #tab1="{ value, isActive }">

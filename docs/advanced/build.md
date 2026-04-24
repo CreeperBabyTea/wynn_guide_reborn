@@ -138,20 +138,12 @@ forum上的[这篇文章](https://forums.wynncraft.com/threads/the-ultimate-buil
 
 ### 近战流
 
-近战流分两类：Tier Stack(简称ts)和Heavy Melee(简称hm)(还有已经死掉的panic zealot cancel stack)
+近战流分三类：Tier Stack(ts)、Heavy Melee(hm)和Cancel Stack(cs)
 
 ts的思路是选择攻速为Super Slow的武器，并且叠堆攻速词条直到Super Fast，以获得高额近战伤害
 
-hm的思路是利用攻速保底，选择Super Slow的武器，并且装备降低攻速、提供超高近战伤害的装备，通过地粉技能打出超高伤害。
+hm的思路是利用攻速保底，选择Super Slow的武器，并且装备降低攻速、提供超高近战伤害的装备，通过地粉技能打出超高伤害
+
+cs的思路是利用提供超高攻速词条的武器(Panic Zealot、Trance等)，搭配hm装备，来实现既有Super Fast的攻速，又能吃极高的raw
 
 一般而言，近战流只有在tcc有发挥空间，因为tcc的buff有相当强力的近战伤害增益
-
-### Fallen
-
-腐化战士依靠血量释放技能，因此对蓝量回转没有特别需求。腐化战士分为全烧和半烧，全烧即完全使用血量输出，半烧则有少量的蓝量回转
-
-对于全烧的fallen，可以使用一些极大降低蓝量回转但是提供高额伤害的装备(如Caesura)
-
-曾经有一个扣除大量mr但是提供42spell%的腐化专用自制戒指，但是如今被削入土只剩28spell%
-
-但是，即使是全烧fallen也需要一定的int和减cost，以减少每个技能的消耗，延长续航

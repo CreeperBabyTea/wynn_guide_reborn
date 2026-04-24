@@ -15,7 +15,14 @@
 <p>如，使用70级的账号进入Notg，该玩家视角下的敌人数值会比满级玩家低得多</p>
 <p>同时Raid结算界面的伤害也是根据当前Raid的等级下限而定的</p>
 </div>
-<p>截至2.2版本，wynncraft有五个raid：Nest of the Grootslang(notg)，Orphion's Nexus of Light(nol)，The Canyon Colossus(tcc)，The Nameless Anomaly(tna)，The Queen's Wartorn Palace(wtp)</p>
+<p>截至2.2版本，wynncraft有五个raid：</p>
+<ul>
+<li><RouteLink to="/advanced/raid/notg.html">Nest of the Grootslang(notg)</RouteLink></li>
+<li><RouteLink to="/advanced/raid/nol.html">Orphion's Nexus of Light(nol)</RouteLink></li>
+<li><RouteLink to="/advanced/raid/tcc.html">The Canyon Colossus(tcc)</RouteLink></li>
+<li><RouteLink to="/advanced/raid/tna.html">The Nameless Anomaly(tna)</RouteLink></li>
+<li><RouteLink to="/advanced/raid/twp.html">The Queen's Wartorn Palace(twp)</RouteLink></li>
+</ul>
 <h2 id="流程" tabindex="-1"><a class="header-anchor" href="#流程"><span>流程</span></a></h2>
 <p>首先，玩家需要通过RaidKeeper，或partyfinder(/pf)加入Raid队列</p>
 <p>进入队列时，需在身上携带对应的门票(runes)，匹配成功后自动扣除</p>

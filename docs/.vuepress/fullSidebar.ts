@@ -50,6 +50,7 @@ export const fullSidebar: SidebarOptions = [
                     "/advanced/raid/nol",
                     "/advanced/raid/tcc",
                     "/advanced/raid/tna",
+                    "/advanced/raid/twp"
                 ]
             }
         ]

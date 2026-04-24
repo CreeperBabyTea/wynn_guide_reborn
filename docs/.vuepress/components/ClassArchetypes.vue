@@ -1,9 +1,13 @@
 <template>
   <div class="wrapper">
-    <div class="desc">
+    <div class="general">
       <img :src="icon" alt="">
-      <slot name="desc"/>
+      <div class="desc">
+        <slot name="desc"/>
+      </div>
     </div>
+
+    <slot name="spells"/>
 
     <div class="archetypes">
       <div class="left">
@@ -34,6 +38,15 @@ export default {
 </script>
 
 <style scoped>
+.general {
+  display: flex;
+  flex-direction: row;
+}
+
+.general > .desc {
+  margin: 1rem;
+}
+
 .archetypes {
   display: flex;
   flex-wrap: nowrap;
@@ -48,9 +61,6 @@ export default {
   padding: .5rem;
   margin: .5rem;
   border-radius: 1rem;
-}
-
-.archetypes > div {
   border: .1rem solid black;
 }
 
