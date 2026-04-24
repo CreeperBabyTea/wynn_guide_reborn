@@ -32,13 +32,13 @@ MMORPG即~~Many Man Online Role Play as Girl~~Massive Multiplayer Online Role Pl
 
 [下载地址](https://modrinth.com/mod/wynntils/)
 
-**请注意，Wynntils最新版本需要1.21.4的Minecraft版本**
+**请注意，Wynntils最新版本需要1.21.11的Minecraft版本**
 
 ### Wynntils URL Redirector
 
 Wynntils的附属MOD。
 
-大陆范围内使用Wynntils会出现==地图黑屏==、数据无法正常下载的情况。
+大陆范围内使用Wynntils会出现地图黑屏、数据无法正常下载的情况。
 
 这个时候就需要这个MOD来解决问题了。
 

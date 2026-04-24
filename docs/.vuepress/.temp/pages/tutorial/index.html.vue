@@ -16,10 +16,10 @@
 <p>该MOD能大幅改善你的游玩体验，功能包括但不限于改善GUI、技能热键绑定、自动平A等</p>
 <p>当然这些技能脚本和平A脚本都是Wynncraft所允许的</p>
 <p><a href="https://modrinth.com/mod/wynntils/" target="_blank" rel="noopener noreferrer">下载地址</a></p>
-<p><strong>请注意，Wynntils最新版本需要1.21.4的Minecraft版本</strong></p>
+<p><strong>请注意，Wynntils最新版本需要1.21.11的Minecraft版本</strong></p>
 <h3 id="wynntils-url-redirector" tabindex="-1"><a class="header-anchor" href="#wynntils-url-redirector"><span>Wynntils URL Redirector</span></a></h3>
 <p>Wynntils的附属MOD。</p>
-<p>大陆范围内使用Wynntils会出现==地图黑屏==、数据无法正常下载的情况。</p>
+<p>大陆范围内使用Wynntils会出现地图黑屏、数据无法正常下载的情况。</p>
 <p>这个时候就需要这个MOD来解决问题了。</p>
 <p><strong>这个MOD可以解决地图黑屏</strong></p>
 <p><strong>这个MOD可以解决地图黑屏</strong></p>

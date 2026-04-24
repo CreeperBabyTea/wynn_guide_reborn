@@ -16,12 +16,13 @@ title: 战乱皇宫
 @tab Regal Ballroom
 
 @tab Grand Aisles
+
 :::
 
 ### Room2
 
-:::tabs
-@tab Statuary Hall
+Statuary Hall
 
-@tab
-:::
+### Room3
+
+The Spire's Shadow
